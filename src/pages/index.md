@@ -124,7 +124,7 @@ Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wi
 
 <Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
 
-Grundsätzlich können Sie aber zwei Grundregeln beachten, um Energie und somit auch Kosten zu sparen. Nutzen Sie wenn möglich einen Sparduschkopf. So Verbrauchen Sie weniger Wasser, womit auch weniger Wasser erhitzt werden muss. Und stellen Sie Therme, Durchlauferhitzer, etc. am besten so ein, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht. Wird diese Temperatur nämlich schon erreicht, wenn der Regler beispielsweise auf mittlerer Temperatur steht, wird das warme Wasser mit kaltem Wasser gemischt. Dafür muss es aber wesentlich stärker erhitzt werden und dafür ist mehr Energie nötig.
+
 
 
 

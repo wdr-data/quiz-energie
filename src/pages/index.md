@@ -44,7 +44,10 @@ Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überpr
 
 Viel Spaß dabei!
 
-
+<figure role="group">
+<img src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
+<figcaption style="text-align: end;"></figcaption>
+</figure>
 
 ### Quiz Beispiel
 

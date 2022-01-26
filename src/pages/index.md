@@ -94,6 +94,49 @@ Und ganz gleich welche Art von Trockner man besitzt: Nutzen Sie das Fassungsverm
 
 <Link title="Wäschetrockner: Tipps zum Kauf und Stromverbrauch" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/waeschetrockner-tipps-zum-kauf-und-stromverbrauch-37984" />
 
+<Quiz>
+<QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
+<Question>**Wissen Sie eigentlich, was fünf Minuten unter der heißen Dusche kosten (wenn Sie einen elektronischen Durchlauferhitzer haben)?**</Question>
+<Answer>0,19 Euro</Answer>
+<Answer>0,32 Euro</Answer>
+<Answer correct>0,54 Euro</Answer>
+<Answer>0,98 Euro</Answer>
+<Result>
+Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh* 0,54 Euro je Duschvorgang. Wer täglich duscht, verursacht so Stromkosten in Höhe von 195,55 Euro.
+</Result>
+</Quiz>
+
+<Quiz>
+<QuizImage src="Duschen_1.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
+<Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Gas erhitzt wird?**</Question>
+<Answer correct>0,19 Euro</Answer>
+<Answer>0,32 Euro</Answer>
+<Answer>0,54 Euro</Answer>
+<Answer>0,98 Euro</Answer>
+<Result>
+Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von 0,19 Euro je Duschvorgang und somit 69,16 Euro im Jahr. Noch billiger wird es mit einem Brennwertkessel mit Heizöl. Dann liegen die Kosten pro Duschgang bei 0,16 Euro und bei 59,28 Euro im Jahr.
+</Result>
+</Quiz>
+
+Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie das Wasser dafür erhitzt werden kann. Wenn Sie dafür eine andere Methode dafür nutzen, als die in unseren Beispielen – z.B. eine Erdwärmepumpe oder Holzpellets – können Sie mit dem Duschrechner der Verbraucherzentrale NRW ihren exakten Energieverbrauch sowie die Kosten dafür berechnen.
+
+<Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
+
+Grundsätzlich können Sie aber zwei Grundregeln beachten, um Energie und somit auch Kosten zu sparen. Nutzen Sie wenn möglich einen Sparduschkopf. So Verbrauchen Sie weniger Wasser, womit auch weniger Wasser erhitzt werden muss. Und stellen Sie Therme, Durchlauferhitzer, etc. am besten so ein, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht. Wird diese Temperatur nämlich schon erreicht, wenn der Regler beispielsweise auf mittlerer Temperatur steht, wird das warme Wasser mit kaltem Wasser gemischt. Dafür muss es aber wesentlich stärker erhitzt werden und dafür ist mehr Energie nötig.
+
+
+<Quiz>
+<QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
+<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche im Trockner zu trocknen?**</Question>
+<Answer>0,08 Euro</Answer>
+<Answer>0,21 Euro</Answer>
+<Answer correct>0,48 Euro</Answer>
+<Answer>1,11 Euro</Answer>
+<Result>
+Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das **0,48 Euro**. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+</Result>
+</Quiz>
+
 
 
 

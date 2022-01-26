@@ -38,7 +38,7 @@ Ganz gleich aus welchen Gründen genau die Energiepreise gestiegen sind, das Erg
 
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, ein bisschen Strom oder Gas sparen können und damit auch ein bisschen Geld.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gaszu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
 
 Viel Spaß dabei!
 
@@ -50,9 +50,65 @@ Viel Spaß dabei!
 <Answer>7, 38 Euro</Answer>
 <Answer>55,61 Euro</Answer>
 <Result>
-Ein TV-Gerät im Standby verbraucht jährlich gut 4 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
+Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
 </Result>
 </Quiz>
+
+Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden. Dazu gehören zum Beispiel auch der Receiver des TV-Geräts, Spielkonsolen und Drucker. Diese Geräte haben zudem gemein, dass die EU-Vorgabe für sie nicht gilt, da sie mit einem Netzwerk verbunden sind – genauso wie ein Smart-TV-Gerät. Sie können also durchaus mehr als 0,5 Watt pro Stunde verbrauchen.
+
+Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen beispielsweise Tisch- oder Stehlampen mit einem Netzteil oder Ladegeräte für Handy und Co., wenn sie in der Steckdose stecken, auch wenn sie nicht genutzt werden. Auch hier lohnt es sich, den Stecker zu ziehen oder eine ausstellbare Steckerleiste zu nutzen. Rechnet man die Ersparnis all dieser Maßnahmen zusammen, kann dann doch ein ganz hübsches Sümmchen zusammen kommen.
+
+<Quiz>
+<QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
+<Question>**Wissen Sie eigentlich, wie viel Geld sie jährlich sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
+<Answer>0,42 Euro</Answer>
+<Answer correct>1,46 Euro</Answer>
+<Answer>8,22 Euro</Answer>
+<Answer>14,60 Euro</Answer>
+<Result>
+Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von 1,46 Euro.
+</Result>
+</Quiz>
+
+Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen. Zum Beispiel wenn er zu häufig und zu lange offen steht. Achten Sie auch darauf, dass Sie Speisen, bevor Sie sie in den Kühlschrank stellen, komplett abkühlen lassen. Und Gerade eine Gefriertruhe ist nicht mehr so leistungsfähig, wenn Sie vereist ist. Dann lohnt sich das Abtauen.
+
+Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Gute Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
+
+<Link title="So finden Sie den passenden Kühlschrank" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573" />
+
+<Quiz>
+<QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
+<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche im Trockner zu trocknen?**</Question>
+<Answer>0,08 Euro</Answer>
+<Answer>0,21 Euro</Answer>
+<Answer correct>0,48 Euro</Answer>
+<Answer>1,11 Euro</Answer>
+<Result>
+Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das 0,48 Euro. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+</Result>
+</Quiz>
+
+Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Anschaffung mehr Geld in die Hand nehmen. Die höheren Kosten für einen Wärmepumpentrockner, der wesentlich weniger Strom verbraucht als ein Kondenstrockner oder ein Ablufttrockner, gleichen sich relativ schnell wieder aus. 
+
+Und ganz gleich welche Art von Trockner man besitzt: Nutzen Sie das Fassungsvermögen des Trockners aus. Ebenfalls Energie sparen können Sie, wenn sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl schleudern. Dann ist sie nicht mehr so feucht und der Trockner hat nicht mehr so viel Arbeit.
+
+<Link title="Wäschetrockner: Tipps zum Kauf und Stromverbrauch" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/waeschetrockner-tipps-zum-kauf-und-stromverbrauch-37984" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Quiz Beispiel
 

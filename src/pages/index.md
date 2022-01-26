@@ -28,8 +28,7 @@ import { Quiz, Question, Answer, Result } from '../components/quiz/quiz.jsx'
 
 Seit Monaten steigen die Kosten für Energie. Nach Informationen des Vergleichsportals Verivox müssen Haushalte in Deutschland mittlerweile 40 Prozent mehr für ihren Strom bezahlen als noch vor einem Jahr. 
 
-Link:
-https://www.tagesschau.de/wirtschaft/verbraucher/verivox-strompreise-energie-kosten-101.html
+<Link title=""Historisches Allzeithoch" der Strompreise" href="https://www.tagesschau.de/wirtschaft/verbraucher/verivox-strompreise-energie-kosten-101.html" />
 
 Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut dem Vergleichsportal Check24 müssen Kunden derzeit doppelt so viel für Gas bezahlen als noch vor einem Jahr.
 

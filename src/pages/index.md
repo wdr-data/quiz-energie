@@ -148,36 +148,6 @@ Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schn
 
 
 
-
-
-
-
-
-### Quiz Beispiel
-
-Officia anim consectetur aliquip non et est veniam. Sunt mollit nisi nulla ea fugiat veniam tempor adipisicing nisi dolor. Consectetur duis labore anim tempor et ipsum cillum laboris quis id. Aute magna adipisicing irure ea non. Nostrud culpa proident aute aliqua elit quis adipisicing sint officia officia laborum aliqua. Ex et incididunt sit duis non anim. Voluptate duis duis in aliquip in laboris anim sunt.
-
-<figure role="group">
-<img src="berthold-schneider-credit-jens-grossmann.jpg" alt="Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann" />
-<figcaption style="text-align: end;">Berthold Schneider</figcaption>
-</figure>
-
-<Quiz>
-<Question>**Hier könnte ihre Frage stehen?**</Question>
-<Answer>Foobar</Answer>
-<Answer correct>42</Answer>
-<Answer>Richtige Antwort</Answer>
-<Answer>Hier klicken!</Answer>
-<Result>
-Natürlich ist **42** die richtige Antwort.
-Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
-when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-</Result>
-</Quiz>
-
-Sint officia mollit cillum commodo magna dolor laborum consectetur duis do tempor ea esse. Dolor ex laborum ut dolor aute excepteur in commodo esse labore eu velit culpa. Aute ut ad cupidatat elit adipisicing veniam. Fugiat fugiat laboris labore sunt nulla aliqua nostrud proident sit. Exercitation laboris adipisicing voluptate nisi ullamco do in elit do incididunt Lorem pariatur. Sit est deserunt adipisicing amet et nostrud.
-
 <Quote author="Homer Simpson">Nukular. Das Wort heißt Nukular.</Quote>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

@@ -107,7 +107,7 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 </Quiz>
 
 <Quiz>
-<QuizImage src="Duschen_1.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
+<QuizImage src="Duschen_2.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Gas erhitzt wird?**</Question>
 <Answer correct>0,19 Euro</Answer>
 <Answer>0,32 Euro</Answer>

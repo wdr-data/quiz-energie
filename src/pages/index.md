@@ -106,6 +106,8 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 </Result>
 </Quiz>
 
+Grundsätzlich gibt es zwei Grundregeln, die helfen, Energie und somit auch Kosten zu sparen. Nutzen Sie wenn möglich einen Sparduschkopf. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. Und stellen Sie Therme, Durchlauferhitzer, etc. am besten so ein, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht. Wird diese Temperatur nämlich schon erreicht, wenn der Regler beispielsweise auf mittlerer Temperatur steht, wird das warme Wasser mit kaltem gemischt. Damit so immer noch eine angenehme Temperatur entsteht, muss das Wasser wesentlich stärker erhitzt werden und dafür ist mehr Energie nötig.
+
 <Quiz>
 <QuizImage src="Duschen_2.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Gas erhitzt wird?**</Question>

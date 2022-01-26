@@ -102,7 +102,7 @@ Und ganz gleich welche Art von Trockner man besitzt: Nutzen Sie das Fassungsverm
 <Answer correct>0,54 Euro</Answer>
 <Answer>0,98 Euro</Answer>
 <Result>
-Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh* 0,54 Euro je Duschvorgang. Wer täglich duscht, verursacht so Stromkosten in Höhe von 195,55 Euro.
+Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh* **0,54 Euro je Duschvorgang**. Wer täglich duscht, verursacht so Stromkosten in Höhe von 195,55 Euro.
 </Result>
 </Quiz>
 
@@ -114,7 +114,7 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 <Answer>0,54 Euro</Answer>
 <Answer>0,98 Euro</Answer>
 <Result>
-Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von 0,19 Euro je Duschvorgang und somit 69,16 Euro im Jahr. Noch billiger wird es mit einem Brennwertkessel mit Heizöl. Dann liegen die Kosten pro Duschgang bei 0,16 Euro und bei 59,28 Euro im Jahr.
+Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von **0,19 Euro je Duschvorgang** und somit 69,16 Euro im Jahr. Noch billiger wird es mit einem Brennwertkessel mit Heizöl. Dann liegen die Kosten pro Duschgang bei 0,16 Euro und bei 59,28 Euro im Jahr.
 </Result>
 </Quiz>
 

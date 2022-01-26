@@ -20,13 +20,13 @@ import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
-import { Quiz, Question, Answer, Result } from '../components/quiz/quiz.jsx'
+import { Quiz, Image as QuizImage, Question, Answer, Result } from '../components/quiz/quiz.jsx'
 
 ## Steigende Kosten für Strom und Gas
 
 # Wissen Sie eigentlich... was Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Nach Informationen des Vergleichsportals Verivox müssen Haushalte in Deutschland mittlerweile 40 Prozent mehr für ihren Strom bezahlen als noch vor einem Jahr. 
+Seit Monaten steigen die Kosten für Energie. Nach Informationen des Vergleichsportals Verivox müssen Haushalte in Deutschland mittlerweile 40 Prozent mehr für ihren Strom bezahlen als noch vor einem Jahr.
 
 <Link title="Historisches Allzeithoch der Strompreise" href="https://www.tagesschau.de/wirtschaft/verbraucher/verivox-strompreise-energie-kosten-101.html" />
 
@@ -36,18 +36,14 @@ Die Gründe für diese Kostenexplosion sind komplex. Ursache sind die steigenden
 
 Ganz gleich aus welchen Gründen genau die Energiepreise gestiegen sind, das Ergebnis für den für den Verbraucher ist dasselbe: Er muss mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit dem geringsten Aufwand am besten meinen Geldbeutel?
 
-
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch  das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, ein bisschen Strom oder Gas sparen können und damit auch ein bisschen Geld.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, ein bisschen Strom oder Gas sparen können und damit auch ein bisschen Geld.
 
 Viel Spaß dabei!
 
-<figure role="group">
-<img src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
-</figure>
-
 <Quiz>
+<QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
 <Question>**Wissen Sie eigentlich, was es Sie kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
 <Answer>Nichts</Answer>
 <Answer correct>1,41 Euro</Answer>
@@ -57,17 +53,6 @@ Viel Spaß dabei!
 Ein TV-Gerät im Standby verbraucht jährlich gut 4 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
 </Result>
 </Quiz>
-
-
-
-
-
-
-
-
-
-
-
 
 ### Quiz Beispiel
 

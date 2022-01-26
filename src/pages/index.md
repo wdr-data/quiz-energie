@@ -22,11 +22,29 @@ import WdrPlayer from '../components/video/video.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Question, Answer, Result } from '../components/quiz/quiz.jsx'
 
-# Quiz Energieverbrauch
+## Steigende Kosten für Strom und Gas
 
-## Anim ex minim non cillum aliqua ullamco officia nulla aliqua ad dolor ex commodo. Id consectetur cupidatat ullamco incididunt quis reprehenderit proident ea. Sint veniam veniam mollit fugiat. Duis magna pariatur irure commodo laboris nostrud.
+# Wissen Sie eigentlich... was Sie für Energie ausgeben?
 
-Laboris labore nulla laboris qui. Nostrud adipisicing mollit dolore minim enim laborum deserunt irure pariatur mollit Lorem irure anim fugiat. Irure qui cupidatat Lorem nulla amet. Dolore in sit excepteur cupidatat sint anim voluptate consectetur aute. Tempor irure id exercitation laboris elit.
+Seit Monaten steigen die Kosten für Energie. Nach Informationen des Vergleichsportals Verivox müssen Haushalte in Deutschland mittlerweile 40 Prozent mehr für ihren Strom bezahlen als noch vor einem Jahr. 
+
+Link:
+https://www.tagesschau.de/wirtschaft/verbraucher/verivox-strompreise-energie-kosten-101.html
+
+Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut dem Vergleichsportal Check24 müssen Kunden derzeit doppelt so viel für Gas bezahlen als noch vor einem Jahr.
+
+Die Gründe für diese Kostenexplosion sind komplex. Ursache sind die steigenden Energiepreise auf dem Weltmarkt. Ein Teil der Versorger gibt diese erhöhten Kosten an die Haushalte weiter. Andere Anbieter reagieren darauf, indem sie die Verträge mit ihren Kunden kündigen. Diese werden dann wieder von den Grundversorgern in ihrer Region mit Strom und Gas beliefert. Allerdings haben viele von diesen die Tarife für Neukunden deutlich erhöht.
+
+Ganz gleich aus welchen Gründen genau die Energiepreise gestiegen sind, das Ergebnis für den für den Verbraucher ist dasselbe: Er muss mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit dem geringsten Aufwand am besten meinen Geldbeutel?
+
+
+## Wissen Sie eigentlich...?
+
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch  das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, ein bisschen Strom oder Gas sparen können und damit auch ein bisschen Geld.
+
+Viel Spaß dabei!
+
+
 
 ### Quiz Beispiel
 

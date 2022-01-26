@@ -125,17 +125,6 @@ Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wi
 Grundsätzlich können Sie aber zwei Grundregeln beachten, um Energie und somit auch Kosten zu sparen. Nutzen Sie wenn möglich einen Sparduschkopf. So Verbrauchen Sie weniger Wasser, womit auch weniger Wasser erhitzt werden muss. Und stellen Sie Therme, Durchlauferhitzer, etc. am besten so ein, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht. Wird diese Temperatur nämlich schon erreicht, wenn der Regler beispielsweise auf mittlerer Temperatur steht, wird das warme Wasser mit kaltem Wasser gemischt. Dafür muss es aber wesentlich stärker erhitzt werden und dafür ist mehr Energie nötig.
 
 
-<Quiz>
-<QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
-<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche im Trockner zu trocknen?**</Question>
-<Answer>0,08 Euro</Answer>
-<Answer>0,21 Euro</Answer>
-<Answer correct>0,48 Euro</Answer>
-<Answer>1,11 Euro</Answer>
-<Result>
-Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das **0,48 Euro**. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
-</Result>
-</Quiz>
 
 
 

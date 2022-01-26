@@ -66,7 +66,7 @@ Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen beispielsweise Tisch- ode
 <Answer>8,22 Euro</Answer>
 <Answer>14,60 Euro</Answer>
 <Result>
-Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von 1,46 Euro.
+Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,46 Euro**.
 </Result>
 </Quiz>
 
@@ -84,7 +84,7 @@ Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Answer correct>0,48 Euro</Answer>
 <Answer>1,11 Euro</Answer>
 <Result>
-Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das 0,48 Euro. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das **0,48 Euro**. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
 </Result>
 </Quiz>
 

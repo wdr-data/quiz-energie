@@ -115,8 +115,8 @@ Folgende Dinge sollten Sie beachten, um bei Wäschtrocknen Energie zu sparen:
 <Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche in einem Ablufttrockner zu trocknen?**</Question>
 <Answer>0,08 Euro</Answer>
 <Answer>0,21 Euro</Answer>
-<Answer correct>0,48 Euro</Answer>
-<Answer>1,77 Euro</Answer>
+<Answer>0,48 Euro</Answer>
+<Answer correct>1,77 Euro</Answer>
 <Result>
 Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
 </Result>
@@ -141,11 +141,14 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 </Result>
 </Quiz>
 
-Grundsätzlich gibt es zwei Grundregeln, die helfen, Energie und somit auch Kosten zu sparen. Nutzen Sie wenn möglich einen Sparduschkopf. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. Und stellen Sie Therme, Durchlauferhitzer, etc. am besten so ein, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht. Wird diese Temperatur nämlich schon erreicht, wenn der Regler beispielsweise auf mittlerer Temperatur steht, wird das warme Wasser mit kaltem gemischt. Damit so immer noch eine angenehme Temperatur entsteht, muss das Wasser wesentlich stärker erhitzt werden und dafür ist mehr Energie nötig.
+## Spartipps
+Das können Sie tun, um beim Duschen Energie zu sparen:
++ Einen Sparduschkopf nutzen. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. 
++ Therme, Durchlauferhitzer, etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
 
 <Quiz>
 <QuizImage src="Duschen_2.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
-<Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Gas erhitzt wird?**</Question>
+<Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Erdgas in einem Brennwertkessel erhitzt wird?**</Question>
 <Answer correct>0,19 Euro</Answer>
 <Answer>0,32 Euro</Answer>
 <Answer>0,54 Euro</Answer>
@@ -159,21 +162,63 @@ Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wi
 
 <Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
 
+<Quiz>
+<QuizImage src="Heizen.jpg" alt="Eine Hand dreht am Regler einer Wandheizung." />
+<Question>**Wissen Sie eigentlich, wie viel Geld Sie jährlich sparen, wenn Sie die Temperatur in Ihrer Neubauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
+<Answer>12 Euro</Answer>
+<Answer correct>38 Euro</Answer>
+<Answer> 75 Euro</Answer>
+<Answer>98 Euro</Answer>
+<Result>
+Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbauch von 7.000 kWh, reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund **38 Euro**.
+</Result>
+</Quiz>
+
+## Spartipps
+Das können Sie zudem noch machen, um Heizkosten zu sparen:
++ Lüften Sie regelmäßig ihre Heizkörper.
++ Stellen Sie keine Möbel vor die Heizkörper.
++ Vermeiden Sie, dass Vorhänge vor der Heizung hängen.
++ Drehen Sie die Heizung herunter, wenn Sie nicht zuhause sind.
+
+<Link title="10 einfache Tipps zum Heizkosten sparen" href="https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892" />
+
+<Quiz>
+<QuizImage src="Heizen.jpg" alt="Eine Hand dreht am Regler einer Wandheizung." />
+<Question>**Und wie viel Geld sparen Sie im Jahr, wenn Sie die Temperatur in Ihrer Altbauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
+<Answer>12 Euro</Answer>
+<Answer>34 Euro</Answer>
+<Answer correct> 75 Euro</Answer>
+<Answer>98 Euro</Answer>
+<Result>
+In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbauch von 14.000 kWh pro Jahr aus. Wir dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut 75 Euro jährlich gespart werden.
+</Result>
+</Quiz>
+
+## Spartipps
+Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkosten zu sparen:
++ Überprüfen Sie, ob die Heizungsnischen in Ihrer Wohnung gedämmt sind und holen Sie das gegebenenfalls nach.
++ Dichten Sie Fenster und Türen ab.
++ Auch über nicht isolierte Rolllädenkästen kann viel Wärme verloren gehen.
 
 
+<Quiz>
+<QuizImage src="Computer_1.jpg" alt="Eine rothaarige Frau mit Locken steht vor einem Schreibtisch mit einem Desktop-PC." />
+<Question>**Wissen Sie eigentlich, was es Sie im jahr kostet, wenn Ihr PC im Homeoffice an fünf Tagen in der Woche für acht Stunden läuft? **</Question>
+<Answer>16,49 Euro</Answer>
+<Answer correct>42,45 Euro</Answer>
+<Answer> 188,01 Euro</Answer>
+<Answer>478,85 Euro</Answer>
+<Result>
+Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von 42,45 Euro.
+</Result>
+</Quiz>
+##Spartipps
+Gerade beim Computer lohnt es sich, ein gerät zu kaufen, dass zu ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie  mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
 
+Besonders deutlich wird das Einsparpotential bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des jahres acht Stunden eingestellt, summieren sich die Kosten auf 117 Euro.
 
+<Link title="Energiespar-Tipps für das Homeoffice" href="https://verbraucherzentrale-energieberatung.de/energiesparen-im-homeoffice-computer/" />
 
-
-
-
-
-
-
-
-
-
-
-<Quote author="Homer Simpson">Nukular. Das Wort heißt Nukular.</Quote>
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

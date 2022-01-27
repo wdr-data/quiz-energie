@@ -1,13 +1,13 @@
 ---
 title: 'Quiz zum Energieverbrauch'
-description: Platzhaltertext
+description: 
 author: Jörn Kießler
 pub_date: '2022-01-28'
-heroImage: 'Stromzaehler_2.jpg'
-heroAlt: ''
-heroCredit: ''
-sharingImageFacebook: 'Stromzaehler_2.jpg'
-sharingImageTwitter: 'Stromzaehler_2.jpg'
+heroImage: 'strom-spar-quiz.jpg '
+heroAlt: 'strom-spar-quiz.jpg'
+heroCredit: 'WDR'
+sharingImageFacebook: 'strom-spar-quiz.jpg'
+sharingImageTwitter: 'strom-spar-quiz.jpg'
 cg1: 'WDR'
 cg2: 'Data'
 cg3: 'Quiz'

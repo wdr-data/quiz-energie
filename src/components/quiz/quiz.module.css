@@ -105,7 +105,7 @@ button .icon svg {
 }
 
 .answer.answered.correct button {
-  background: var(--brand-primary);
+  background: #095d09;
 }
 
 .answer.answered.faded button {

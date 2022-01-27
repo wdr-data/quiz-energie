@@ -60,14 +60,14 @@ Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durc
 Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und eventuell auch mehr als 0,5 Watt pro Stunde verbrauchen.
 
 Denn Geräte, die mit einem Netzwerk verbunden sind, fallen nicht unter diese EU-Vorgabe. Dazu gehören u.a.
-..+ Receiver
-..+ Spielkonsolen
-..+ Drucker
-..+ Smart-TV-Gerät
+⋅⋅* Receiver
+⋅⋅* Spielkonsolen
+⋅⋅* Drucker
+⋅⋅* Smart-TV-Gerät
 
 Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
-..+ Tisch- oder Stehlampen mit Netzteil
-..+ Ladegeräte für Handy, Smartphones und andere Geräte
+⋅⋅* Tisch- oder Stehlampen mit Netzteil
+⋅⋅* Ladegeräte für Handy, Smartphones und andere Geräte
 
 
 <Quiz>

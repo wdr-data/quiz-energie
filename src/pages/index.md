@@ -28,11 +28,9 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise, die sich seit Monaten erhöhen, belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
-Die Gründe für diese Kostenexplosion sind komplex. WDR-Wissenschaftsredakteur Jörg Marksteiner erklärt hier, welche Faktoren dabei eine Rolle spielen.
-
 <Link title="Strom, Gas, Benzin: Warum alles teurer wird" href="https://www1.wdr.de/nachrichten/wirtschaft/strom-gas-kosten-energiepreise-100.html" />
 
-Für den Verbraucher spielen die Ursachen im Endeffekt kaum eine Rolle: Er muss so oder so mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
+Die Gründe für diese Kostenexplosion sind komplex. Für den Verbraucher spielen sie im Endeffekt aber keine Rolle: Er muss letztlich mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
 ## Wissen Sie eigentlich...?
 

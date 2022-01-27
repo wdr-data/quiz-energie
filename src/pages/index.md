@@ -24,7 +24,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 ## Steigende Kosten für Strom und Gas
 
-# Wissen Sie eigentlich... was Sie für Energie ausgeben?
+# Wissen Sie eigentlich...was Sie für Energie ausgeben?
 
 Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise, die sich seit Monaten erhöhen, belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
@@ -34,9 +34,9 @@ Die Gründe für diese Kostenexplosion sind komplex. Für den Verbraucher spiele
 
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
 
-Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
+Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
 
 Viel Spaß dabei!
 
@@ -54,7 +54,7 @@ Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durc
 </Quiz>
 
 ### Spartipps
-Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und Strom verbrauchen.
+Das größte Sparpotenzial hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Daran lassen sich nämlich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und Strom verbrauchen.
 
 Dazu gehören u.a.: 
 + Receiver
@@ -67,7 +67,7 @@ Dazu gehören u.a.:
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
-<Question>**Wissen Sie eigentlich, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
+<Question>**Wissen Sie eigentlich, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in Ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
 <Answer>0,42 Euro</Answer>
 <Answer correct>1,25 Euro</Answer>
 <Answer>8,22 Euro</Answer>
@@ -78,13 +78,13 @@ Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jä
 </Quiz>
 
 ### Spartipps
-Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen.
-Um das zu verhindern sollten sie auf folgendes achten:
+Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotenzial. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen.
+Um das zu verhindern, sollten Sie auf Folgendes achten:
 + Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
 + Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
-+ Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
++ Tauen Sie Ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
 
-Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
+Hat Ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 
 <Link title="So finden Sie den passenden Kühlschrank" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573" />
 

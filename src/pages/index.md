@@ -213,7 +213,7 @@ Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkoste
 Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von 42,45 Euro.
 </Result>
 </Quiz>
-##Spartipps
+## Spartipps
 Gerade beim Computer lohnt es sich, ein gerät zu kaufen, dass zu ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie  mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
 
 Besonders deutlich wird das Einsparpotential bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des jahres acht Stunden eingestellt, summieren sich die Kosten auf 117 Euro.

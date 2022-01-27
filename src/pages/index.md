@@ -46,19 +46,29 @@ Viel Spaß dabei!
 
 <Quiz>
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
-<Question>**Wissen Sie eigentlich, was es Sie kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
+<Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
 <Answer>Nichts</Answer>
 <Answer correct>1,41 Euro</Answer>
 <Answer>7, 38 Euro</Answer>
 <Answer>55,61 Euro</Answer>
 <Result>
-Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
+Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
 </Result>
 </Quiz>
 
-Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden. Dazu gehören zum Beispiel auch der Receiver des TV-Geräts, Spielkonsolen und Drucker. Diese Geräte haben zudem gemein, dass die EU-Vorgabe für sie nicht gilt, da sie mit einem Netzwerk verbunden sind – genauso wie ein Smart-TV-Gerät. Sie können also durchaus mehr als 0,5 Watt pro Stunde verbrauchen.
+### Spartips
+Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und eventuell auch mehr als 0,5 Watt pro Stunde verbrauchen.
 
-Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen beispielsweise Tisch- oder Stehlampen mit einem Netzteil oder Ladegeräte für Handy und Co., wenn sie in der Steckdose stecken, auch wenn sie nicht genutzt werden. Auch hier lohnt es sich, den Stecker zu ziehen oder eine ausstellbare Steckerleiste zu nutzen. Rechnet man die Ersparnis all dieser Maßnahmen zusammen, kann dann doch ein ganz hübsches Sümmchen zusammen kommen.
+Denn Geräte, die mit einem Netzwerk verbunden sind, fallen nicht unter diese EU-Vorgabe. Dazu gehören u.a.
+..+ Receiver
+..+ Spielkonsolen
+..+ Drucker
+..+ Smart-TV-Gerät
+
+Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
+..+ Tisch- oder Stehlampen mit Netzteil
+..+ Ladegeräte für Handy, Smartphones und andere Geräte
+
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />

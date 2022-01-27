@@ -26,7 +26,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 # Wissen Sie eigentlich... was Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Nach Informationen des Bundesverbands der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abschließen, zwölf Prozent teurer als der Preis, den Verbraucher im vergangenen Jahr durchschnittlich zahlen mussten. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW beträgt die Kostensteigerung für Haushalte, die im Januar einen neuen Vertrag abschließen, 73 Prozent im Vergleich zu den Durchschnittspreisen 2021.
+Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise, die sich seit Monaten erhöhen, belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuenVertrag abschließen, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung sogar noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
 Die Gründe für diese Kostenexplosion sind komplex. WDR-Wissenschaftsredakteur Jörg Marksteiner erklärt hier, welche Faktoren dabei eine Rolle spielen.
 

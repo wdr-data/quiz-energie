@@ -36,7 +36,7 @@ Für den Verbraucher spielen diese Faktoren im Endeffekt keine Rolle: Er muss so
 
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Dafür haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Für den Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
 
 Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
 
@@ -48,11 +48,11 @@ Viel Spaß dabei!
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
 <Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
 <Answer>Nichts</Answer>
-<Answer correct>1,41 Euro</Answer>
-<Answer>7, 38 Euro</Answer>
+<Answer correct>1,29 Euro</Answer>
+<Answer>7,38 Euro</Answer>
 <Answer>55,61 Euro</Answer>
 <Result>
-Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,41 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
+Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,29 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
 </Result>
 </Quiz>
 
@@ -69,17 +69,15 @@ Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
 + Tisch- oder Stehlampen mit Netzteil
 + Ladegeräte für Handy, Smartphones und andere Geräte
 
-
-
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
-<Question>**Wissen Sie eigentlich, wie viel Geld sie im Jahr sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
+<Question>**Wissen Sie eigentlich, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
 <Answer>0,42 Euro</Answer>
-<Answer correct>1,46 Euro</Answer>
+<Answer correct>1,25 Euro</Answer>
 <Answer>8,22 Euro</Answer>
 <Answer>14,60 Euro</Answer>
 <Result>
-Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,46 Euro**.
+Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,25 Euro**.
 </Result>
 </Quiz>
 
@@ -90,7 +88,7 @@ Um das zu verhindern sollten sie auf folgendes achten:
 + Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
 + Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
 
-Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Gute Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
+Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 
 <Link title="So finden Sie den passenden Kühlschrank" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573" />
 
@@ -103,7 +101,7 @@ Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Answer correct>0,48 Euro</Answer>
 <Answer>1,77 Euro</Answer>
 <Result>
-Ein Wärmepumpemtrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. 
+Ein Wärmepumpentrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. 
 </Result>
 </Quiz>
 

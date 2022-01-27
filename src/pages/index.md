@@ -43,7 +43,7 @@ Viel Spaß dabei!
 
 <Quiz>
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
-<Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
+<Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
 <Answer>Nichts</Answer>
 <Answer correct>1,41 Euro</Answer>
 <Answer>7,38 Euro</Answer>

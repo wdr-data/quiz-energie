@@ -56,18 +56,18 @@ Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durc
 </Result>
 </Quiz>
 
-### Spartips
+### Spartipps
 Das größte Sparpotential hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Sie ersparen einem nicht nur, dass man vor dem Fernsehen den Stecker wieder in die Steckdose stecken muss. Daran lassen sich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und eventuell auch mehr als 0,5 Watt pro Stunde verbrauchen.
 
 Denn Geräte, die mit einem Netzwerk verbunden sind, fallen nicht unter diese EU-Vorgabe. Dazu gehören u.a.
-⋅⋅* Receiver
-⋅⋅* Spielkonsolen
-⋅⋅* Drucker
-⋅⋅* Smart-TV-Gerät
+  * Receiver
+  * Spielkonsolen
+  * Drucker
+  * Smart-TV-Gerät
 
 Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
-⋅⋅* Tisch- oder Stehlampen mit Netzteil
-⋅⋅* Ladegeräte für Handy, Smartphones und andere Geräte
+  * Tisch- oder Stehlampen mit Netzteil
+  * Ladegeräte für Handy, Smartphones und andere Geräte
 
 
 <Quiz>
@@ -82,11 +82,11 @@ Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jä
 </Result>
 </Quiz>
 
-### Spartips
+### Spartipps
 Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen. Um das zu verhindern sollten sie auf folgendes achten:
-..* Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
-..* Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
-..* Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
+  * Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
+  * Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
+  * Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
 
 Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Gute Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 

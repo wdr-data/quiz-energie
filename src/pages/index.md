@@ -204,7 +204,7 @@ Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkoste
 
 <Quiz>
 <QuizImage src="Computer_1.jpg" alt="Eine rothaarige Frau mit Locken steht vor einem Schreibtisch mit einem Desktop-PC." />
-<Question>**Wissen Sie eigentlich, was es Sie im jahr kostet, wenn Ihr PC im Homeoffice an fünf Tagen in der Woche für acht Stunden läuft? **</Question>
+<Question>**Wissen Sie eigentlich, was es Sie im Jahr kostet, wenn Ihr PC im Homeoffice an fünf Tagen in der Woche für acht Stunden läuft? **</Question>
 <Answer>16,49 Euro</Answer>
 <Answer correct>42,45 Euro</Answer>
 <Answer> 188,01 Euro</Answer>

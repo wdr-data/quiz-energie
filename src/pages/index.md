@@ -78,7 +78,7 @@ Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
 <Answer>8,22 Euro</Answer>
 <Answer>14,60 Euro</Answer>
 <Result>
-Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh* sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,25 Euro**.
+Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,25 Euro**.
 </Result>
 </Quiz>
 
@@ -119,7 +119,7 @@ Folgende Dinge sollten Sie beachten, um bei Wäschtrocknen Energie zu sparen:
 <Answer>0,48 Euro</Answer>
 <Answer correct>1,77 Euro</Answer>
 <Result>
-Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei **1,77 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
 </Result>
 </Quiz>
 
@@ -138,7 +138,7 @@ Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Ans
 <Answer correct>0,54 Euro</Answer>
 <Answer>0,98 Euro</Answer>
 <Result>
-Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh* **0,54 Euro je Duschvorgang**. Wer täglich duscht, verursacht so Stromkosten in Höhe von 195,55 Euro.
+Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh **0,54 Euro je Duschvorgang**. Wer täglich duscht, verursacht so Stromkosten in Höhe von 195,55 Euro.
 </Result>
 </Quiz>
 
@@ -193,7 +193,7 @@ Das können Sie zudem noch machen, um Heizkosten zu sparen:
 <Answer correct> 75 Euro</Answer>
 <Answer>98 Euro</Answer>
 <Result>
-In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbauch von 14.000 kWh pro Jahr aus. Wir dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut 75 Euro jährlich gespart werden.
+In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbauch von 14.000 kWh pro Jahr aus. Wir dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut **75 Euro** jährlich gespart werden.
 </Result>
 </Quiz>
 
@@ -212,7 +212,7 @@ Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkoste
 <Answer> 188,01 Euro</Answer>
 <Answer>478,85 Euro</Answer>
 <Result>
-Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von 42,45 Euro.
+Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von **42,45 Euro**.
 </Result>
 </Quiz>
 

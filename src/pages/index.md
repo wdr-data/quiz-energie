@@ -24,26 +24,26 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 ## Steigende Kosten für Strom und Gas
 
-# Wissen Sie eigentlich...was Sie für Energie ausgeben?
+# Quiz: Wissen Sie...wieviel Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise, die sich seit Monaten erhöhen, belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
+Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
 <Link title="Strom, Gas, Benzin: Warum alles teurer wird" href="https://www1.wdr.de/nachrichten/wirtschaft/strom-gas-kosten-energiepreise-100.html" />
 
-Die Gründe für diese Kostenexplosion sind komplex. Für den Verbraucher spielen sie im Endeffekt aber keine Rolle: Er muss letztlich mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
+Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
-## Wissen Sie eigentlich...?
+## Wissen Sie...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
+Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
 
-Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
+Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig zu haben.
 
 Viel Spaß dabei!
 
 
 <Quiz>
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
-<Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
+<Question>**Wissen Sie, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
 <Answer>Nichts</Answer>
 <Answer correct>1,41 Euro</Answer>
 <Answer>7,38 Euro</Answer>
@@ -67,7 +67,7 @@ Dazu gehören u.a.:
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
-<Question>**Wissen Sie eigentlich, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in Ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
+<Question>**Wissen Sie, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in Ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
 <Answer>0,42 Euro</Answer>
 <Answer correct>1,25 Euro</Answer>
 <Answer>8,22 Euro</Answer>
@@ -91,30 +91,30 @@ Hat Ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 
 <Quiz>
 <QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
-<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche in einem Wärmepumpentrockner zu trocknen?**</Question>
+<Question>**Wissen Sie, was es kostet, eine Maschine Wäsche in einem Wärmepumpentrockner zu trocknen?**</Question>
 <Answer>0,08 Euro</Answer>
 <Answer>0,21 Euro</Answer>
 <Answer correct>0,48 Euro</Answer>
 <Answer>1,77 Euro</Answer>
 <Result>
-Ein Wärmepumpentrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. 
+Ein Wärmepumpentrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht 76,80 Euro. 
 </Result>
 </Quiz>
 
 ### Spartipps
-Folgende Dinge sollten Sie beachten, um bei Wäschtrocknen Energie zu sparen:
+Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
 + Nutzen Sie das Fassungsvermögen des Trockners aus.
 + Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.
 
 <Quiz>
-<QuizImage src="Trockner_2.jpg" alt="Ein Arm steck Wäsche in einen älteren Wäschetrockner." />
-<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche in einem Ablufttrockner zu trocknen?**</Question>
+<QuizImage src="Trockner_2.jpg" alt="Ein Arm steckt Wäsche in einen älteren Wäschetrockner." />
+<Question>**Wissen Sie, was es kostet, eine Maschine Wäsche in einem Ablufttrockner zu trocknen?**</Question>
 <Answer>0,08 Euro</Answer>
 <Answer>0,21 Euro</Answer>
 <Answer>0,48 Euro</Answer>
 <Answer correct>1,77 Euro</Answer>
 <Result>
-Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei **1,77 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei **1,77 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht 283,20 Euro. 
 </Result>
 </Quiz>
 
@@ -127,7 +127,7 @@ Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Ans
 
 <Quiz>
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
-<Question>**Wissen Sie eigentlich, was fünf Minuten unter der heißen Dusche kosten (wenn Sie einen elektronischen Durchlauferhitzer haben)?**</Question>
+<Question>**Wissen Sie, was fünf Minuten unter der heißen Dusche kosten, wenn Sie einen elektronischen Durchlauferhitzer haben?**</Question>
 <Answer>0,19 Euro</Answer>
 <Answer>0,32 Euro</Answer>
 <Answer correct>0,54 Euro</Answer>
@@ -140,7 +140,7 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 ### Spartipps
 Das können Sie tun, um beim Duschen Energie zu sparen:
 + Einen Sparduschkopf nutzen. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. 
-+ Therme, Durchlauferhitzer, etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
++ Therme, Durchlauferhitzer etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
 
 <Quiz>
 <QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
@@ -155,19 +155,19 @@ Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten vo
 </Quiz>
 
 ### Spartipps
-Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie das Wasser dafür erhitzt werden kann. Wenn Sie dafür eine andere Methode dafür nutzen, als die in unseren Beispielen – z.B. eine Erdwärmepumpe oder Holzpellets – können Sie mit dem Duschrechner der Verbraucherzentrale NRW ihren exakten Energieverbrauch sowie die Kosten dafür berechnen.
+Gerade wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie das Wasser dafür erhitzt werden kann. Wenn Sie eine andere Methode dafür nutzen als die in unseren Beispielen – z.B. eine Erdwärmepumpe oder Holzpellets – können Sie mit dem Duschrechner der Verbraucherzentrale NRW ihren exakten Energieverbrauch sowie die Kosten dafür berechnen.
 
 <Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
 
 <Quiz>
 <QuizImage src="Heizen.jpg" alt="Eine Hand dreht am Regler einer Wandheizung." />
-<Question>**Wissen Sie eigentlich, wie viel Geld Sie jährlich sparen, wenn Sie die Temperatur in Ihrer Neubauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
+<Question>**Wissen Sie, wie viel Geld Sie jährlich sparen, wenn Sie die Temperatur in Ihrer Neubauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
 <Answer>12 Euro</Answer>
 <Answer correct>38 Euro</Answer>
 <Answer> 75 Euro</Answer>
 <Answer>98 Euro</Answer>
 <Result>
-Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbauch von 7.000 kWh, reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund **38 Euro**.
+Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbrauch von 7.000 kWh reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund **38 Euro**.
 </Result>
 </Quiz>
 
@@ -188,7 +188,7 @@ Das können Sie zudem noch machen, um Heizkosten zu sparen:
 <Answer correct> 75 Euro</Answer>
 <Answer>98 Euro</Answer>
 <Result>
-In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbauch von 14.000 kWh pro Jahr aus. Wir dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut **75 Euro** jährlich gespart werden.
+In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbrauch von 14.000 kWh pro Jahr aus. Wird dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut **75 Euro** jährlich gespart werden.
 </Result>
 </Quiz>
 

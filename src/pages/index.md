@@ -24,7 +24,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 ## Steigende Kosten für Strom und Gas
 
-# Quiz: Wissen Sie...wieviel Sie für Energie ausgeben?
+# Quiz: Wissen Sie... wieviel Sie für Energie ausgeben?
 
 Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 

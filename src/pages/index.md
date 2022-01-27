@@ -26,21 +26,20 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 # Wissen Sie eigentlich... was Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Nach Informationen des Vergleichsportals Verivox müssen Haushalte in Deutschland mittlerweile 40 Prozent mehr für ihren Strom bezahlen als noch vor einem Jahr.
+Seit Monaten steigen die Kosten für Energie. Nach Informationen des Bundesverbands der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abschließen, zwölf Prozent teurer als der Preis, den Verbraucher im vergangenen Jahr durchschnittlich zahlen mussten. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW beträgt sie Kostensteigerung für Haushalte, die im Januar einen neuen Vertrag abschließen, 73 Prozent im Vergleich zu den Durchschnittspreisen 2021.
 
-<Link title="Historisches Allzeithoch der Strompreise" href="https://www.tagesschau.de/wirtschaft/verbraucher/verivox-strompreise-energie-kosten-101.html" />
+Die Gründe für diese Kostenexplosion sind komplex. WDR-Wissenscftsredakteur Jörg Marksteiner erklärt hier, welche Faktoren dabei eine Rolle spielen.
 
-Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut dem Vergleichsportal Check24 müssen Kunden derzeit doppelt so viel für Gas bezahlen als noch vor einem Jahr.
+<Link title="Text von Jörg zum Preisanstieg" href="https://www.wdr.de" />
 
-Die Gründe für diese Kostenexplosion sind komplex. Ursache sind die steigenden Energiepreise auf dem Weltmarkt. Ein Teil der Versorger gibt diese erhöhten Kosten an die Haushalte weiter. Andere Anbieter reagieren darauf, indem sie die Verträge mit ihren Kunden kündigen. Diese werden dann wieder von den Grundversorgern in ihrer Region mit Strom und Gas beliefert. Allerdings haben viele von diesen die Tarife für Neukunden deutlich erhöht.
-
-Ganz gleich aus welchen Gründen genau die Energiepreise gestiegen sind, das Ergebnis für den für den Verbraucher ist dasselbe: Er muss mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit dem geringsten Aufwand am besten meinen Geldbeutel?
+Für den Verbraucher spielen diese Faktoren im Endeffekt keine Rolle: Er muss so oder so mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich damit auskennen, Energie zu sparen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gaszu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
 
 Viel Spaß dabei!
+
 
 <Quiz>
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />

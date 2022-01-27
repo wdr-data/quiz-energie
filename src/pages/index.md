@@ -101,7 +101,7 @@ Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Answer>0,08 Euro</Answer>
 <Answer>0,21 Euro</Answer>
 <Answer correct>0,48 Euro</Answer>
-<Answer>1,11 Euro</Answer>
+<Answer>1,77 Euro</Answer>
 <Result>
 Ein Wärmepumpemtrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. 
 </Result>
@@ -113,12 +113,12 @@ Folgende Dinge sollten Sie beachten, um bei Wäschtrocknen Energie zu sparen:
 + Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.
 
 <Quiz>
-<QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
-<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche im Trockner zu trocknen?**</Question>
+<QuizImage src="Trockner_2.jpg" alt="Ein Arm steck Wäsche in einen älteren Wäschetrockner." />
+<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche in einem Ablufttrockner zu trocknen?**</Question>
 <Answer>0,08 Euro</Answer>
 <Answer>0,21 Euro</Answer>
 <Answer correct>0,48 Euro</Answer>
-<Answer>1,11 Euro</Answer>
+<Answer>1,77 Euro</Answer>
 <Result>
 Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
 </Result>

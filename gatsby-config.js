@@ -2,7 +2,6 @@ const Config = require("./starter-config")
 
 module.exports = {
   pathPrefix: Config.pathPrefix,
-  origin: Config.origin,
   plugins: [
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sharp`,

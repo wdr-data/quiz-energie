@@ -1,6 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import Config from "../../gatsby-config";
+import starterConfig from "../../starter-config";
 
 import Header from "../components/header/header.jsx";
 
@@ -19,7 +20,7 @@ import { StaticQuery, graphql } from "gatsby";
 import FrontmatterContext from './frontmatterContext';
 
 const DefaultTemplate = data => {
-  const URL = `${Config.origin}${Config.pathPrefix}`;
+  const URL = `${starterConfig.origin}${Config.pathPrefix}`;
   const frontmatter = data.pageContext.frontmatter;
   const pub_date = new Date(Date.parse(frontmatter.pub_date + "T00:00:00.000Z"));
 

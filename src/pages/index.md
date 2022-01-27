@@ -26,20 +26,19 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 # Wissen Sie eigentlich... was Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Nach Informationen des Bundesverbands der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abschließen, zwölf Prozent teurer als der Preis, den Verbraucher im vergangenen Jahr durchschnittlich zahlen mussten. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW beträgt sie Kostensteigerung für Haushalte, die im Januar einen neuen Vertrag abschließen, 73 Prozent im Vergleich zu den Durchschnittspreisen 2021.
+Seit Monaten steigen die Kosten für Energie. Nach Informationen des Bundesverbands der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abschließen, zwölf Prozent teurer als der Preis, den Verbraucher im vergangenen Jahr durchschnittlich zahlen mussten. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW beträgt die Kostensteigerung für Haushalte, die im Januar einen neuen Vertrag abschließen, 73 Prozent im Vergleich zu den Durchschnittspreisen 2021.
 
-Die Gründe für diese Kostenexplosion sind komplex. WDR-Wissenscftsredakteur Jörg Marksteiner erklärt hier, welche Faktoren dabei eine Rolle spielen.
+Die Gründe für diese Kostenexplosion sind komplex. WDR-Wissenschaftsredakteur Jörg Marksteiner erklärt hier, welche Faktoren dabei eine Rolle spielen.
 
-<Link title="Text von Jörg zum Preisanstieg" href="https://www.wdr.de" />
+<Link title="Strom, Gas, Benzin: Warum alles teurer wird" href="https://www1.wdr.de/nachrichten/wirtschaft/strom-gas-kosten-energiepreise-100.html" />
 
-Für den Verbraucher spielen diese Faktoren im Endeffekt keine Rolle: Er muss so oder so mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
+Für den Verbraucher spielen die Ursachen im Endeffekt kaum eine Rolle: Er muss so oder so mehr für Strom und Gas bezahlen. Da lohnt es sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
 ## Wissen Sie eigentlich...?
 
 Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Beim durschnittlichen Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
 
 Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
-
 
 Viel Spaß dabei!
 
@@ -68,6 +67,8 @@ Denn Geräte, die mit einem Netzwerk verbunden sind, fallen nicht unter diese EU
 Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
 + Tisch- oder Stehlampen mit Netzteil
 + Ladegeräte für Handy, Smartphones und andere Geräte
+
+<Link title="Steigende Gas- und Energiepreise: So sparen Sie Kosten" href="https://www1.wdr.de/nachrichten/gaspreise-strompreise-sparen-tipps-100.html" />
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />

@@ -45,11 +45,11 @@ Viel Spaß dabei!
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
 <Question>**Wissen Sie eigentlich, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus laufen lassen?**</Question>
 <Answer>Nichts</Answer>
-<Answer correct>1,29 Euro</Answer>
+<Answer correct>1,41 Euro</Answer>
 <Answer>7,38 Euro</Answer>
 <Answer>55,61 Euro</Answer>
 <Result>
-Ein TV-Gerät im Standby verbraucht jährlich gut vier kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,29 Euro/pro Jahr**. Seit 2013 dürfen neuere Fernsehgeräte in der EU im Standby-Modus nicht mehr als 0,5 Watt pro Stunde verbrauchen.
+Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,41 Euro/pro Jahr**.
 </Result>
 </Quiz>
 

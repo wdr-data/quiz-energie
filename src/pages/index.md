@@ -1,6 +1,6 @@
 ---
-title: 'Quiz zum Energieverbrauch'
-description: 
+title: 'Hohe Kosten für Strom und Gas: Tipps zum Energie und Geld sparen'
+description: 'Die Kosten für Strom und Gas steigen seit Jahren stetig. Grund genug, auf den eigenen Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel Sie eine heiße Dusche kostet oder wie viel Strom ihr Kühlschrank verbraucht?'
 author: Jörn Kießler
 pub_date: '2022-01-28'
 heroImage: 'Stromzaehler_2.jpg'

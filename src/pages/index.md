@@ -212,9 +212,9 @@ Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen
 </Quiz>
 
 ### Spartipps
-Gerade beim Computer lohnt es sich, ein gerät zu kaufen, dass zu ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie  mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
+Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
 
-Besonders deutlich wird das Einsparpotential bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des jahres acht Stunden eingestellt, summieren sich die Kosten auf 117 Euro.
+Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des Jahres acht Stunden eingeschaltet, summieren sich die Kosten auf 117 Euro.
 
 <Link title="Energiespar-Tipps für das Homeoffice" href="https://verbraucherzentrale-energieberatung.de/energiesparen-im-homeoffice-computer/" />
 

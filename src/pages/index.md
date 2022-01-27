@@ -70,6 +70,7 @@ Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
 + Ladegeräte für Handy, Smartphones und andere Geräte
 
 
+
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
 <Question>**Wissen Sie eigentlich, wie viel Geld sie im Jahr sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
@@ -83,7 +84,8 @@ Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jä
 </Quiz>
 
 ### Spartipps
-Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen. Um das zu verhindern sollten sie auf folgendes achten:
+Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen.
+Um das zu verhindern sollten sie auf folgendes achten:
 + Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
 + Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
 + Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
@@ -91,6 +93,24 @@ Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte 
 Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Gute Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 
 <Link title="So finden Sie den passenden Kühlschrank" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573" />
+
+
+<Quiz>
+<QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
+<Question>**Wissen Sie eigentlich, was es kostet, eine Maschine Wäsche in einem Wärmepumpentrockner zu trocknen?**</Question>
+<Answer>0,08 Euro</Answer>
+<Answer>0,21 Euro</Answer>
+<Answer correct>0,48 Euro</Answer>
+<Answer>1,11 Euro</Answer>
+<Result>
+Ein Wärmepumpemtrockner der Energieeffizienzklasse D verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. 
+</Result>
+</Quiz>
+
+### Spartipps
+Folgende Dinge sollten Sie beachten, um bei Wäschtrocknen Energie zu sparen:
++ Nutzen Sie das Fassungsvermögen des Trockners aus.
++ Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.
 
 <Quiz>
 <QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
@@ -100,15 +120,16 @@ Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Answer correct>0,48 Euro</Answer>
 <Answer>1,11 Euro</Answer>
 <Result>
-Ein energieeffizienter Wäschetrockner verbraucht je Trocknungsdurchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* sind das **0,48 Euro**. Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei 1,77 Euro. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen.
 </Result>
 </Quiz>
 
+### Spartipps
+
 Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Anschaffung mehr Geld in die Hand nehmen. Die höheren Kosten für einen Wärmepumpentrockner, der wesentlich weniger Strom verbraucht als ein Kondenstrockner oder ein Ablufttrockner, gleichen sich relativ schnell wieder aus. 
 
-Und ganz gleich welche Art von Trockner man besitzt: Nutzen Sie das Fassungsvermögen des Trockners aus. Ebenfalls Energie sparen können Sie, wenn sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl schleudern. Dann ist sie nicht mehr so feucht und der Trockner hat nicht mehr so viel Arbeit.
-
 <Link title="Wäschetrockner: Tipps zum Kauf und Stromverbrauch" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/waeschetrockner-tipps-zum-kauf-und-stromverbrauch-37984" />
+
 
 <Quiz>
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />

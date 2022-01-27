@@ -72,7 +72,7 @@ Ebenfalls Strom in ausgeschaltetem Zustand verbrauchen u.a.:
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
-<Question>**Wissen Sie eigentlich, wie viel Geld sie jährlich sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
+<Question>**Wissen Sie eigentlich, wie viel Geld sie im Jahr sparen könnten, wenn Sie die Temperatur in ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
 <Answer>0,42 Euro</Answer>
 <Answer correct>1,46 Euro</Answer>
 <Answer>8,22 Euro</Answer>
@@ -82,7 +82,11 @@ Ein sparsamer Kühlschrank der Effizienzklasse A ohne Gefrierfach verbraucht jä
 </Result>
 </Quiz>
 
-Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen. Zum Beispiel wenn er zu häufig und zu lange offen steht. Achten Sie auch darauf, dass Sie Speisen, bevor Sie sie in den Kühlschrank stellen, komplett abkühlen lassen. Und Gerade eine Gefriertruhe ist nicht mehr so leistungsfähig, wenn Sie vereist ist. Dann lohnt sich das Abtauen.
+### Spartips
+Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotential. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen. Um das zu verhindern sollten sie auf folgendes achten:
+..* Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
+..* Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
+..* Tauen Sie ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
 
 Hat ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Gute Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 

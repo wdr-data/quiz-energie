@@ -141,7 +141,7 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 </Result>
 </Quiz>
 
-## Spartipps
+### Spartipps
 Das können Sie tun, um beim Duschen Energie zu sparen:
 + Einen Sparduschkopf nutzen. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. 
 + Therme, Durchlauferhitzer, etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
@@ -158,6 +158,7 @@ Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten vo
 </Result>
 </Quiz>
 
+### Spartipps
 Gerade, wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie das Wasser dafür erhitzt werden kann. Wenn Sie dafür eine andere Methode dafür nutzen, als die in unseren Beispielen – z.B. eine Erdwärmepumpe oder Holzpellets – können Sie mit dem Duschrechner der Verbraucherzentrale NRW ihren exakten Energieverbrauch sowie die Kosten dafür berechnen.
 
 <Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
@@ -174,7 +175,7 @@ Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa
 </Result>
 </Quiz>
 
-## Spartipps
+### Spartipps
 Das können Sie zudem noch machen, um Heizkosten zu sparen:
 + Lüften Sie regelmäßig ihre Heizkörper.
 + Stellen Sie keine Möbel vor die Heizkörper.
@@ -195,7 +196,7 @@ In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gashe
 </Result>
 </Quiz>
 
-## Spartipps
+### Spartipps
 Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkosten zu sparen:
 + Überprüfen Sie, ob die Heizungsnischen in Ihrer Wohnung gedämmt sind und holen Sie das gegebenenfalls nach.
 + Dichten Sie Fenster und Türen ab.
@@ -213,7 +214,8 @@ Oft lohnen sich auch Sanierungen, die nicht dsie Heizung betreffen, um Heizkoste
 Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh* und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von 42,45 Euro.
 </Result>
 </Quiz>
-## Spartipps
+
+### Spartipps
 Gerade beim Computer lohnt es sich, ein gerät zu kaufen, dass zu ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie  mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
 
 Besonders deutlich wird das Einsparpotential bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des jahres acht Stunden eingestellt, summieren sich die Kosten auf 117 Euro.

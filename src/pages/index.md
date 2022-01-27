@@ -147,7 +147,7 @@ Das können Sie tun, um beim Duschen Energie zu sparen:
 + Therme, Durchlauferhitzer, etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
 
 <Quiz>
-<QuizImage src="Duschen_2.jpg" alt="Eine dunkelhaarige Frau mit langen Haaren steht unter der Dusche." />
+<QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Erdgas in einem Brennwertkessel erhitzt wird?**</Question>
 <Answer correct>0,19 Euro</Answer>
 <Answer>0,32 Euro</Answer>
@@ -184,7 +184,7 @@ Das können Sie zudem noch machen, um Heizkosten zu sparen:
 <Link title="10 einfache Tipps zum Heizkosten sparen" href="https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892" />
 
 <Quiz>
-<QuizImage src="Heizen.jpg" alt="Eine Hand dreht am Regler einer Wandheizung." />
+<QuizImage src="Heizen_Altbau.jpg" alt="Eine Decke liegt auf der Fensterbank über einem Heizkörper in einem Altbau." />
 <Question>**Und wie viel Geld sparen Sie im Jahr, wenn Sie die Temperatur in Ihrer Altbauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
 <Answer>12 Euro</Answer>
 <Answer>34 Euro</Answer>

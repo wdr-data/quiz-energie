@@ -36,7 +36,10 @@ Für den Verbraucher spielen diese Faktoren im Endeffekt keine Rolle: Er muss so
 
 ## Wissen Sie eigentlich...?
 
-Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
+Mit „Wissen Sie eigentlich...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie Sich mit Energiesparen auskennen. Dafür haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den der BDEW im Jahr 2021 für einen Haushalt mit einem Jahresverbrauch von 3.500 kWh angibt. Für den Gaspreis haben wir uns an Daten der Verbraucherzentrale NRW orientiert.
+
+Klicken Sie Sich durch das Quiz und finden Sie heraus, wo Sie bei Sich im Haushalt vielleicht noch Potential haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig haben.
+
 
 Viel Spaß dabei!
 

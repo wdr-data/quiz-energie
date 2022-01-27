@@ -1,6 +1,6 @@
 ---
-title: 'Hohe Kosten für Strom und Gas: Tipps zum Energie und Geld sparen'
-description: 'Die Kosten für Strom und Gas steigen seit Jahren stetig. Grund genug, auf den eigenen Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel Sie eine heiße Dusche kostet oder wie viel Strom ihr Kühlschrank verbraucht?'
+title: 'Hohe Kosten für Strom und Gas: Wie teuer ist eine heiße Dusche?'
+description: 'Die Kosten für Strom und Gas sind stark gestiegen. Grund genug, auf den Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel eine heiße Dusche kostet? Oder wie viel Strom Ihr PC verbraucht?'
 author: Jörn Kießler
 pub_date: '2022-01-28'
 heroImage: 'Stromzaehler_2.jpg'

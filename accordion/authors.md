@@ -1,2 +1,2 @@
-- [Jörn Kießler](https://jkiessler.de/)
+- Jörn Kießler
 - Sebastian Moritz

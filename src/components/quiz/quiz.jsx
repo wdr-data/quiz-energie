@@ -148,7 +148,11 @@ export const Result = ({ children }) => {
         hidden={!confirmed}
         aria-hidden={confirmed ? "false" : "true"}
       >
-        <ReactMarkdown source={children} linkTarget="_blank" />
+        {typeof children === "string" ? (
+          <ReactMarkdown source={children} linkTarget="_blank" />
+        ) : (
+          children
+        )}
       </div>
     </div>
   );

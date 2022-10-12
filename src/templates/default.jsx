@@ -19,6 +19,10 @@ import { StaticQuery, graphql } from "gatsby";
 
 import FrontmatterContext from "./frontmatterContext";
 import { GlobalQuizContext, useQuizContext } from "./globalQuizContext";
+import {
+  EnergyPriceContext,
+  useEnergyPriceContext,
+} from "./energyPriceContext";
 
 const DefaultTemplate = (data) => {
   const URL = `${starterConfig.origin}${Config.pathPrefix}`;
@@ -28,6 +32,7 @@ const DefaultTemplate = (data) => {
   );
 
   const quizContext = useQuizContext();
+  const energyPriceContext = useEnergyPriceContext();
 
   const query = graphql`
     query MyQuery {
@@ -138,7 +143,9 @@ const DefaultTemplate = (data) => {
             <DateFormat date={pub_date} />
             <FrontmatterContext.Provider value={frontmatter}>
               <GlobalQuizContext.Provider value={quizContext}>
-                {data.children}
+                <EnergyPriceContext.Provider value={energyPriceContext}>
+                  {data.children}
+                </EnergyPriceContext.Provider>
               </GlobalQuizContext.Provider>
             </FrontmatterContext.Provider>
             <StaticQuery

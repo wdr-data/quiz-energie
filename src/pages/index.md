@@ -21,6 +21,10 @@ import Sharing from '../components/sharing/sharing.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
+import { SetPriceElectricity, SetPriceGas, PriceElectricity, PriceGas, CostElectricity, CostGas } from '../components/energy-prices/energyPrices.jsx'
+
+<SetPriceElectricity centPerKWh={53.83} />
+<SetPriceGas centPerKWh={20.54}/>
 
 ## Steigende Kosten für Strom und Gas
 
@@ -36,7 +40,7 @@ Die Zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu se
 
 ## Wissen Sie...?
 
-Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei 53,83 Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (20,54 Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
+Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei <PriceElectricity /> Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (<PriceGas /> Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
 
 Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig zu haben.
 
@@ -46,11 +50,11 @@ Viel Spaß dabei!
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
 <Question>**Wissen Sie, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
 <Answer>Nichts</Answer>
-<Answer correct>1,41 Euro</Answer>
-<Answer>7,38 Euro</Answer>
-<Answer>55,61 Euro</Answer>
+<Answer correct><CostElectricity kWh={4.38} /> Euro</Answer>
+<Answer><CostElectricity kWh={15} /> Euro</Answer>
+<Answer><CostElectricity kWh={100} /> Euro</Answer>
 <Result>
-Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das **1,41 Euro/pro Jahr**.
+Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durchschnittlichen Strompreis von <PriceElectricity /> Cent/ kWh sind das <b><CostElectricity kWh={4.38} /> Euro/pro Jahr</b>.
 </Result>
 </Quiz>
 
@@ -71,12 +75,12 @@ Dazu gehören u.a.:
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />
 <Question>**Wissen Sie, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in Ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
-<Answer>0,42 Euro</Answer>
-<Answer correct>1,25 Euro</Answer>
-<Answer>8,22 Euro</Answer>
-<Answer>14,60 Euro</Answer>
+<Answer><CostElectricity kWh={65 * 0.02} /> Euro</Answer>
+<Answer correct><CostElectricity kWh={65 * 0.06} /> Euro</Answer>
+<Answer><CostElectricity kWh={65 * 0.20} /> Euro</Answer>
+<Answer><CostElectricity kWh={65 * 0.50} /> Euro</Answer>
 <Result>
-Ein sparsamer Kühlschrank der Effizienzklasse D ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von 32,16 Cent/ kWh sind das 20,90 Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von **1,25 Euro**.
+Ein sparsamer Kühlschrank der Effizienzklasse D ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von <PriceElectricity /> Cent/ kWh sind das <CostElectricity kWh={65} /> Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von <b><CostElectricity kWh={3.9} /> Euro</b>.
 </Result>
 </Quiz>
 
@@ -96,12 +100,12 @@ Hat Ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Quiz>
 <QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
 <Question>**Wissen Sie, was es kostet, eine Maschine Wäsche in einem Wärmepumpentrockner zu trocknen?**</Question>
-<Answer>0,08 Euro</Answer>
-<Answer>0,21 Euro</Answer>
-<Answer correct>0,48 Euro</Answer>
-<Answer>1,77 Euro</Answer>
+<Answer><CostElectricity kWh={0.2} /> Euro</Answer>
+<Answer><CostElectricity kWh={0.8} /> Euro</Answer>
+<Answer correct><CostElectricity kWh={1.5} /> Euro</Answer>
+<Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
-Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh sind das **0,48 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht 76,80 Euro. 
+Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh sind das <b><CostElectricity kWh={1.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={1.5 * 160} round="euro" /> Euro. 
 </Result>
 </Quiz>
 
@@ -115,12 +119,12 @@ Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
 <Quiz>
 <QuizImage src="Trockner_2.jpg" alt="Ein Arm steckt Wäsche in einen älteren Wäschetrockner." />
 <Question>**Wissen Sie, was es kostet, eine Maschine Wäsche in einem Ablufttrockner zu trocknen?**</Question>
-<Answer>0,08 Euro</Answer>
-<Answer>0,21 Euro</Answer>
-<Answer>0,48 Euro</Answer>
-<Answer correct>1,77 Euro</Answer>
+<Answer><CostElectricity kWh={0.2} /> Euro</Answer>
+<Answer><CostElectricity kWh={0.6} /> Euro</Answer>
+<Answer><CostElectricity kWh={1.8} /> Euro</Answer>
+<Answer correct><CostElectricity kWh={5.5} /> Euro</Answer>
 <Result>
-Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei **1,77 Euro**. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht 283,20 Euro. 
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei <b><CostElectricity kWh={5.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={5.0 * 160} round="euro" /> Euro. 
 </Result>
 </Quiz>
 
@@ -133,12 +137,12 @@ Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Ans
 <Quiz>
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
 <Question>**Wissen Sie, was fünf Minuten unter der heißen Dusche kosten, wenn Sie einen elektronischen Durchlauferhitzer haben?**</Question>
-<Answer>0,19 Euro</Answer>
-<Answer>0,32 Euro</Answer>
-<Answer correct>0,54 Euro</Answer>
-<Answer>0,98 Euro</Answer>
+<Answer><CostElectricity kWh={0.5} /> Euro</Answer>
+<Answer><CostElectricity kWh={0.9} /> Euro</Answer>
+<Answer correct><CostElectricity kWh={1.68} /> Euro</Answer>
+<Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
-Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von 32,16 Cent/ kWh **0,54 Euro je Duschvorgang**. Wer täglich duscht, verursacht so Stromkosten in Höhe von rund 197 Euro pro Jahr.
+Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Schüttmenge von zehn Litern pro Minute kostet bei der Nutzung eines elektronischen Durchlauferhitzers und einem Strompreis von <PriceElectricity /> Cent/ kWh <b><CostElectricity kWh={1.68} /> Euro je Duschvorgang</b>. Wer täglich duscht, verursacht so Stromkosten in Höhe von rund <CostElectricity kWh={1.68 * 365} round="euro" /> Euro pro Jahr.
 </Result>
 </Quiz>
 
@@ -152,12 +156,12 @@ Das können Sie tun, um beim Duschen Energie zu sparen:
 <Quiz>
 <QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Erdgas in einem Brennwertkessel erhitzt wird?**</Question>
-<Answer correct>0,19 Euro</Answer>
-<Answer>0,32 Euro</Answer>
-<Answer>0,54 Euro</Answer>
-<Answer>0,98 Euro</Answer>
+<Answer correct><CostGas kWh={1.68} /> Euro</Answer>
+<Answer><CostGas kWh={3} /> Euro</Answer>
+<Answer><CostGas kWh={5} /> Euro</Answer>
+<Answer><CostGas kWh={10} />  Euro</Answer>
 <Result>
-Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von **0,19 Euro je Duschvorgang** und somit etwa 69 Euro im Jahr. Noch billiger wird es mit einem Brennwertkessel mit Heizöl. Dann liegen die Kosten pro Duschgang bei 0,16 Euro und bei gut 54 Euro im Jahr.
+Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von <b><CostGas kWh={1.68} /> Euro je Duschvorgang</b> und somit etwa <CostGas kWh={1.68 * 365} round="euro" /> Euro im Jahr.
 </Result>
 </Quiz>
 
@@ -170,12 +174,12 @@ Gerade wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie
 <Quiz>
 <QuizImage src="Heizen.jpg" alt="Eine Hand dreht am Regler einer Wandheizung." />
 <Question>**Wissen Sie, wie viel Geld Sie jährlich sparen, wenn Sie die Temperatur in Ihrer Neubauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
-<Answer>12 Euro</Answer>
-<Answer correct>38 Euro</Answer>
-<Answer> 75 Euro</Answer>
-<Answer>98 Euro</Answer>
+<Answer><CostGas kWh={100} round="euro" /> Euro</Answer>
+<Answer correct><CostGas kWh={420} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={700} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={1900} round="euro" /> Euro</Answer>
 <Result>
-Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbrauch von 7.000 kWh reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund **38 Euro**.
+Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbrauch von 7.000 kWh reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund <b><CostGas kWh={420} round="euro" /> Euro</b>.
 </Result>
 </Quiz>
 
@@ -193,12 +197,12 @@ Das können Sie zudem noch machen, um Heizkosten zu sparen:
 <Quiz>
 <QuizImage src="Heizen_Altbau.jpg" alt="Eine Decke liegt auf der Fensterbank über einem Heizkörper in einem Altbau." />
 <Question>**Und wie viel Geld sparen Sie im Jahr, wenn Sie die Temperatur in Ihrer Altbauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
-<Answer>12 Euro</Answer>
-<Answer>34 Euro</Answer>
-<Answer correct> 75 Euro</Answer>
-<Answer>98 Euro</Answer>
+<Answer><CostGas kWh={100} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={400} round="euro" /> Euro</Answer>
+<Answer correct><CostGas kWh={840} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={2300} round="euro" /> Euro</Answer>
 <Result>
-In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbrauch von 14.000 kWh pro Jahr aus. Wird dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut **75 Euro** jährlich gespart werden.
+In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbrauch von 14.000 kWh pro Jahr aus. Wird dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut <b><CostGas kWh={840} round="euro" /> Euro</b> jährlich gespart werden.
 </Result>
 </Quiz>
 
@@ -213,20 +217,20 @@ Oft lohnen sich auch Sanierungen, die nicht die Heizung betreffen, um Heizkosten
 <Quiz>
 <QuizImage src="Computer_1.jpg" alt="Eine rothaarige Frau mit Locken steht vor einem Schreibtisch mit einem Desktop-PC." />
 <Question>**Wissen Sie eigentlich, was es Sie im Jahr kostet, wenn Ihr PC im Homeoffice an fünf Tagen in der Woche für acht Stunden läuft? **</Question>
-<Answer>16,49 Euro</Answer>
-<Answer correct>42,45 Euro</Answer>
-<Answer> 188,01 Euro</Answer>
-<Answer>478,85 Euro</Answer>
+<Answer><CostElectricity kWh={0.2 * 220} /> Euro</Answer>
+<Answer correct><CostElectricity kWh={0.6 * 220} /> Euro</Answer>
+<Answer><CostElectricity kWh={1.7 * 220} /> Euro</Answer>
+<Answer><CostElectricity kWh={4 * 220} /> Euro</Answer>
 <Result>
-Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von 32,16 Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von **42,45 Euro**.
+Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von <b><CostElectricity kWh={0.6 * 220} /> Euro</b>.
 </Result>
 </Quiz>
 
 ### Spartipps
 
-Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro.
+Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf <CostElectricity kWh={0.2 * 220} round="euro" /> Euro.
 
-Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des Jahres acht Stunden eingeschaltet, summieren sich die Kosten auf 117 Euro.
+Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut <CostElectricity kWh={1.0 * 220} round="euro" /> Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des Jahres acht Stunden eingeschaltet, summieren sich die Kosten auf <CostElectricity kWh={1.0 * 365} round="euro" /> Euro.
 
 <QuizScore
 images={{

@@ -26,17 +26,17 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 # Quiz: Wissen Sie... wieviel Sie für Energie ausgeben?
 
-Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Im Laufe des Jahres 2021. Bereits im Januar meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen.
+Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Bereits im Januar meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen.
 
-Ähnlich sieht es beim Gaspreis aus, den Privatkunden bezahlen. Er stieg seit Januar laut Verivox sogar um mehr als ein Drittel. Dabei mussten Neukunden im Januar laut BDEW bereits 73 Prozent mehr als den  den Durchschnittspreis 2021 zahlen.
+Ähnlich sieht es beim Gaspreis aus, den Privatkunden bezahlen müssen. Er stieg seit Januar laut Verivox sogar um mehr als ein Drittel. Dabei mussten Neukunden im Januar laut BDEW bereits 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
 <Link title="Gestiegene Energiekosten: So hoch sind aktuell die Gas- und Strompreise in NRW" href="https://www1.wdr.de/nachrichten/so-sind-die-gas-und-strompreise-aktuell-in-nrw-100.html" />
 
-Die zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
+Die Zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
 ## Wissen Sie...?
 
-Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh angibt. Er liegt demnach bei 53,83 Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (20,54 Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
+Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei 53,83 Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (20,54 Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
 
 Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig zu haben.
 

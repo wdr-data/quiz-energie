@@ -233,7 +233,7 @@ images={{
 0: "Heizen_Altbau.jpg",
 4: "Heizen.jpg",
 7: "Kuehlschrank_1.jpg",
-9: "Dusche_Hund",
+9: "Dusche_Hund.jpg",
 }}
 texts={{
 0: "Da geht noch was.",

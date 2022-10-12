@@ -2,7 +2,7 @@
 title: 'Hohe Kosten für Strom und Gas: Wie teuer ist eine heiße Dusche?'
 description: 'Die Kosten für Strom und Gas sind stark gestiegen. Grund genug, auf den Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel eine heiße Dusche kostet? Oder wie viel Strom Ihr PC verbraucht?'
 author: Jörn Kießler
-pub_date: '2022-01-28'
+pub_date: '2022-10-19'
 heroImage: 'Stromzaehler_2.jpg'
 heroAlt: ''
 heroCredit: ''

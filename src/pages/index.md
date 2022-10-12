@@ -228,6 +228,21 @@ Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderu
 
 Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des Jahres acht Stunden eingeschaltet, summieren sich die Kosten auf 117 Euro.
 
+<QuizScore
+images={{
+0: "Heizen_Altbau.jpg",
+4: "Heizen.jpg",
+7: "Kuehlschrank_1.jpg",
+9: "Dusche_Hund",
+}}
+texts={{
+0: "Da geht noch was.",
+4: "Schon besser...",
+7: "Ziemlich gut!",
+9: "Volle Punktzahl, nicht schlecht!",
+}}
+/>
+
 <Link title="Energiespar-Tipps für das Homeoffice" href="https://verbraucherzentrale-energieberatung.de/energiesparen-im-homeoffice-computer/" />
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

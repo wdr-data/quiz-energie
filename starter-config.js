@@ -1,4 +1,4 @@
 module.exports = {
-    pathPrefix: "/",
-    origin: "https://quiz-energie.netlify.app",
-}
+  pathPrefix: "/",
+  origin: "https://quiz-energie.netlify.app",
+};

@@ -30,7 +30,7 @@ Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie.
 
 Ähnlich sieht es beim Gaspreis aus, den Privatkunden bezahlen. Er stieg seit Januar laut Verivox sogar um mehr als ein Drittel. Dabei mussten Neukunden im Januar laut BDEW bereits 73 Prozent mehr als den  den Durchschnittspreis 2021 zahlen.
 
-<Link title="SGestiegene Energiekosten: So hoch sind aktuell die Gas- und Strompreise in NRW" href="https://www1.wdr.de/nachrichten/so-sind-die-gas-und-strompreise-aktuell-in-nrw-100.html" />
+<Link title="Gestiegene Energiekosten: So hoch sind aktuell die Gas- und Strompreise in NRW" href="https://www1.wdr.de/nachrichten/so-sind-die-gas-und-strompreise-aktuell-in-nrw-100.html" />
 
 Die zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
@@ -65,7 +65,7 @@ Dazu gehören u.a.:
 + Tisch- oder Stehlampen mit Netzteil
 + Ladegeräte für Handy, Smartphones und andere Geräte
 
-<Link title="Steigende Gas- und Energiepreise: So sparen Sie Kosten" href="https://www1.wdr.de/nachrichten/gaspreise-strompreise-sparen-tipps-100.html" />
+<Link title="Energiespartipps: So verbrauchen Sie weniger Gas und Strom im Alltag" href="https://www1.wdr.de/nachrichten/gas-energie-sparen-spartipps-100.html" />
 
 <Quiz>
 <QuizImage src="Kuehlschrank_1.jpg" alt="Mehrere Plastikdosen mit Lebensmitteln stehen in einem beleuchteten Kühlschrank." />

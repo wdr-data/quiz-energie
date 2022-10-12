@@ -26,9 +26,9 @@ import { Quiz, Image as QuizImage, Question, Answer, Result } from '../component
 
 # Quiz: Wissen Sie... wieviel Sie für Energie ausgeben?
 
-Seit Monaten steigen die Kosten für Energie. Vor allem die Strom- und Gaspreise belasten viele Menschen. Laut Bundesverband der Energie- und Wasserwirtschaft (BDEW) ist der Strom für Haushalte, die im Januar einen neuen Vertrag abgeschlossen haben, durchschnittlich zwölf Prozent teurer als im vergangenen Jahr. Beim Gas fällt die Preiserhöhung noch drastischer aus. Laut BDEW müssen Neukunden 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
+Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Im Laufe des Jahres 2021. Bereits im Januar meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen
 
-<Link title="Strom, Gas, Benzin: Warum alles teurer wird" href="https://www1.wdr.de/nachrichten/wirtschaft/strom-gas-kosten-energiepreise-100.html" />
+<Link title="SGestiegene Energiekosten: So hoch sind aktuell die Gas- und Strompreise in NRW" href="https://www1.wdr.de/nachrichten/so-sind-die-gas-und-strompreise-aktuell-in-nrw-100.html" />
 
 Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 

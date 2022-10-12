@@ -20,7 +20,7 @@ import Webtrekk from '../components/webtrekk/webtrekk.jsx'
 import Sharing from '../components/sharing/sharing.jsx'
 import WdrPlayer from '../components/video/video.jsx'
 import { Link, LinkList } from '../components/link/link.jsx'
-import { Quiz, Image as QuizImage, Question, Answer, Result } from '../components/quiz/quiz.jsx'
+import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 
 ## Steigende Kosten für Strom und Gas
 
@@ -42,7 +42,6 @@ Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielle
 
 Viel Spaß dabei!
 
-
 <Quiz>
 <QuizImage src="Standby_TV.jpg" alt="Ein Mann richtet eine Fernbedienung auf einen Fernseher im Standby-Modus" />
 <Question>**Wissen Sie, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
@@ -56,14 +55,16 @@ Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durc
 </Quiz>
 
 ### Spartipps
+
 Das größte Sparpotenzial hat der Fernseher nicht. Trotzdem lohnt es sich, über ausstellbare Steckerleisten nachzudenken. Daran lassen sich nämlich auch andere Geräte anschließen, die sich sonst nach dem Abschalten auch im Standby-Modus befinden und Strom verbrauchen.
 
-Dazu gehören u.a.: 
-+ Receiver
-+ Spielkonsolen
-+ Drucker
-+ Tisch- oder Stehlampen mit Netzteil
-+ Ladegeräte für Handy, Smartphones und andere Geräte
+Dazu gehören u.a.:
+
+- Receiver
+- Spielkonsolen
+- Drucker
+- Tisch- oder Stehlampen mit Netzteil
+- Ladegeräte für Handy, Smartphones und andere Geräte
 
 <Link title="Energiespartipps: So verbrauchen Sie weniger Gas und Strom im Alltag" href="https://www1.wdr.de/nachrichten/gas-energie-sparen-spartipps-100.html" />
 
@@ -80,16 +81,17 @@ Ein sparsamer Kühlschrank der Effizienzklasse D ohne Gefrierfach verbraucht jä
 </Quiz>
 
 ### Spartipps
+
 Auch der Kühlschrank bietet – wird er optimal genutzt – nicht das größte Sparpotenzial. Allerdings kann er die Energiekosten schnell auch etwas ansteigen lassen.
 Um das zu verhindern, sollten Sie auf Folgendes achten:
-+ Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
-+ Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
-+ Tauen Sie Ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
+
+- Lassen Sie den Kühlschrank nicht zu häufig und zu lange offen stehen.
+- Lassen Sie Speisen erst vollständig abkühlen, bevor Sie sie in den Kühlschrank stellen.
+- Tauen Sie Ihre Gefriertruhe regelmäßig ab und lassen Sie sie nicht zu stark vereisen.
 
 Hat Ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die beste Energieeffizienzklasse, lohnt es sich, über einen neuen nachzudenken. Tipps für den Kauf gibt es bei der Verbraucherzentrale NRW.
 
 <Link title="So finden Sie den passenden Kühlschrank" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/so-finden-sie-den-passenden-kuehlschrank-10573" />
-
 
 <Quiz>
 <QuizImage src="Trockner.jpg" alt="Ein weißes Handtuch liegt in der Trommel eines Wäschetrockners." />
@@ -104,9 +106,11 @@ Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang i
 </Quiz>
 
 ### Spartipps
+
 Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
-+ Nutzen Sie das Fassungsvermögen des Trockners aus.
-+ Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.
+
+- Nutzen Sie das Fassungsvermögen des Trockners aus.
+- Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.
 
 <Quiz>
 <QuizImage src="Trockner_2.jpg" alt="Ein Arm steckt Wäsche in einen älteren Wäschetrockner." />
@@ -122,10 +126,9 @@ Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
 
 ### Spartipps
 
-Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Anschaffung mehr Geld in die Hand nehmen. Die höheren Kosten für einen Wärmepumpentrockner, der wesentlich weniger Strom verbraucht als ein Kondenstrockner oder ein Ablufttrockner, gleichen sich relativ schnell wieder aus. 
+Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Anschaffung mehr Geld in die Hand nehmen. Die höheren Kosten für einen Wärmepumpentrockner, der wesentlich weniger Strom verbraucht als ein Kondenstrockner oder ein Ablufttrockner, gleichen sich relativ schnell wieder aus.
 
 <Link title="Wäschetrockner: Tipps zum Kauf und Stromverbrauch" href="https://www.verbraucherzentrale.de/wissen/energie/strom-sparen/waeschetrockner-tipps-zum-kauf-und-stromverbrauch-37984" />
-
 
 <Quiz>
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
@@ -140,9 +143,11 @@ Eine fünfminütige Dusche bei einer Wassertemperatur von 38 Grad und einer Sch�
 </Quiz>
 
 ### Spartipps
+
 Das können Sie tun, um beim Duschen Energie zu sparen:
-+ Einen Sparduschkopf nutzen. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss. 
-+ Therme, Durchlauferhitzer etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
+
+- Einen Sparduschkopf nutzen. So verbrauchen Sie weniger Wasser, das zuvor erhitzt werden muss.
+- Therme, Durchlauferhitzer etc. so einstellen, dass das Wasser eine angenehme Temperatur hat, wenn der Regler auf maximal heiß steht.
 
 <Quiz>
 <QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
@@ -157,6 +162,7 @@ Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten vo
 </Quiz>
 
 ### Spartipps
+
 Gerade wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie das Wasser dafür erhitzt werden kann. Wenn Sie eine andere Methode dafür nutzen als die in unseren Beispielen – z.B. eine Erdwärmepumpe oder Holzpellets – können Sie mit dem Duschrechner der Verbraucherzentrale NRW ihren exakten Energieverbrauch sowie die Kosten dafür berechnen.
 
 <Link title="Duschrechner" href="https://www.verbraucherzentrale.nrw/duschrechner" />
@@ -174,11 +180,13 @@ Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa
 </Quiz>
 
 ### Spartipps
+
 Das können Sie zudem noch machen, um Heizkosten zu sparen:
-+ Lüften Sie regelmäßig ihre Heizkörper.
-+ Stellen Sie keine Möbel vor die Heizkörper.
-+ Vermeiden Sie, dass Vorhänge vor der Heizung hängen.
-+ Drehen Sie die Heizung herunter, wenn Sie nicht zuhause sind.
+
+- Lüften Sie regelmäßig ihre Heizkörper.
+- Stellen Sie keine Möbel vor die Heizkörper.
+- Vermeiden Sie, dass Vorhänge vor der Heizung hängen.
+- Drehen Sie die Heizung herunter, wenn Sie nicht zuhause sind.
 
 <Link title="10 einfache Tipps zum Heizkosten sparen" href="https://www.verbraucherzentrale.de/wissen/energie/heizen-und-warmwasser/heizung-10-einfache-tipps-zum-heizkosten-sparen-13892" />
 
@@ -195,11 +203,12 @@ In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gashe
 </Quiz>
 
 ### Spartipps
-Oft lohnen sich auch Sanierungen, die nicht die Heizung betreffen, um Heizkosten zu sparen:
-+ Überprüfen Sie, ob die Heizungsnischen in Ihrer Wohnung gedämmt sind und holen Sie das gegebenenfalls nach.
-+ Dichten Sie Fenster und Türen ab.
-+ Auch über nicht isolierte Rolllädenkästen kann viel Wärme verloren gehen.
 
+Oft lohnen sich auch Sanierungen, die nicht die Heizung betreffen, um Heizkosten zu sparen:
+
+- Überprüfen Sie, ob die Heizungsnischen in Ihrer Wohnung gedämmt sind und holen Sie das gegebenenfalls nach.
+- Dichten Sie Fenster und Türen ab.
+- Auch über nicht isolierte Rolllädenkästen kann viel Wärme verloren gehen.
 
 <Quiz>
 <QuizImage src="Computer_1.jpg" alt="Eine rothaarige Frau mit Locken steht vor einem Schreibtisch mit einem Desktop-PC." />
@@ -214,11 +223,11 @@ Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen
 </Quiz>
 
 ### Spartipps
-Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro. 
+
+Gerade beim Computer lohnt es sich, ein Gerät zu kaufen, das zu Ihren Anforderungen passt. Brauchen Sie nicht unbedingt einen Desktop-PC, können Sie mit einem Laptop schon richtig Energiekosten sparen. Ein Standard-Laptop verbraucht mit 0,2 kWh je Tag nämlich nur ein Drittel des Stroms, den ein Desktop-PC benötigt. Die jährlichen Energiekosten dafür sinken dann auch auf 14,15 Euro.
 
 Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ein gut ausgestatteter Gaming PC beispielsweise verbraucht rund 1 kWh am Tag und verursacht aufs Jahr gerechnet somit Kosten in Höhe von gut 70 Euro - wenn er nur an 220 Tagen läuft. Ist er an allen Tagen des Jahres acht Stunden eingeschaltet, summieren sich die Kosten auf 117 Euro.
 
 <Link title="Energiespar-Tipps für das Homeoffice" href="https://verbraucherzentrale-energieberatung.de/energiesparen-im-homeoffice-computer/" />
-
 
 <Sharing twitter facebook mail whatsapp telegram reddit xing linkedin />

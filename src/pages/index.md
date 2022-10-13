@@ -217,10 +217,10 @@ Oft lohnen sich auch Sanierungen, die nicht die Heizung betreffen, um Heizkosten
 <Quiz>
 <QuizImage src="Computer_1.jpg" alt="Eine rothaarige Frau mit Locken steht vor einem Schreibtisch mit einem Desktop-PC." />
 <Question>**Wissen Sie eigentlich, was es Sie im Jahr kostet, wenn Ihr PC im Homeoffice an fünf Tagen in der Woche für acht Stunden läuft? **</Question>
-<Answer><CostElectricity kWh={0.2 * 220} /> Euro</Answer>
-<Answer correct><CostElectricity kWh={0.6 * 220} /> Euro</Answer>
-<Answer><CostElectricity kWh={1.7 * 220} /> Euro</Answer>
-<Answer><CostElectricity kWh={4 * 220} /> Euro</Answer>
+<Answer><CostElectricity kWh={0.2 * 220} round="euro" /> Euro</Answer>
+<Answer correct><CostElectricity kWh={0.6 * 220} round="euro" /> Euro</Answer>
+<Answer><CostElectricity kWh={1.7 * 220} round="euro" /> Euro</Answer>
+<Answer><CostElectricity kWh={4 * 220} round="euro" /> Euro</Answer>
 <Result>
 Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von <b><CostElectricity kWh={0.6 * 220} /> Euro</b>.
 </Result>

@@ -137,7 +137,7 @@ Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Ans
 <Quiz>
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
 <Question>**Wissen Sie, was fünf Minuten unter der heißen Dusche kosten, wenn Sie einen elektronischen Durchlauferhitzer haben?**</Question>
-<Answer><CostElectricity kWh={0.5} /> Euro</Answer>
+<Answer><CostElectricity kWh={0.65} /> Euro</Answer>
 <Answer><CostElectricity kWh={0.9} /> Euro</Answer>
 <Answer correct><CostElectricity kWh={1.68} /> Euro</Answer>
 <Answer><CostElectricity kWh={4} /> Euro</Answer>
@@ -157,9 +157,9 @@ Das können Sie tun, um beim Duschen Energie zu sparen:
 <QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Erdgas in einem Brennwertkessel erhitzt wird?**</Question>
 <Answer correct><CostGas kWh={1.68} /> Euro</Answer>
-<Answer><CostGas kWh={3} /> Euro</Answer>
-<Answer><CostGas kWh={5} /> Euro</Answer>
-<Answer><CostGas kWh={10} />  Euro</Answer>
+<Answer><CostGas kWh={2.34} /> Euro</Answer>
+<Answer><CostGas kWh={4.38} /> Euro</Answer>
+<Answer><CostGas kWh={10.47} />  Euro</Answer>
 <Result>
 Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von <b><CostGas kWh={1.68} /> Euro je Duschvorgang</b> und somit etwa <CostGas kWh={1.68 * 365} round="euro" /> Euro im Jahr.
 </Result>

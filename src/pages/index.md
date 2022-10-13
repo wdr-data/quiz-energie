@@ -51,8 +51,8 @@ Viel Spaß dabei!
 <Question>**Wissen Sie, was es Sie jährlich kostet, wenn Sie den Fernseher immer im Standby-Modus lassen?**</Question>
 <Answer>Nichts</Answer>
 <Answer correct><CostElectricity kWh={4.38} /> Euro</Answer>
-<Answer><CostElectricity kWh={15} /> Euro</Answer>
-<Answer><CostElectricity kWh={100} /> Euro</Answer>
+<Answer><CostElectricity kWh={22,6} /> Euro</Answer>
+<Answer><CostElectricity kWh={120} /> Euro</Answer>
 <Result>
 Ein TV-Gerät im Standby verbraucht jährlich gut 4,38 kWh Strom. Bei einem durchschnittlichen Strompreis von <PriceElectricity /> Cent/ kWh sind das <b><CostElectricity kWh={4.38} /> Euro/pro Jahr</b>.
 </Result>
@@ -77,7 +77,7 @@ Dazu gehören u.a.:
 <Question>**Wissen Sie, wie viel Geld Sie im Jahr sparen könnten, wenn Sie die Temperatur in Ihrem Kühlschrank um ein Grad nach oben stellen würden?**</Question>
 <Answer><CostElectricity kWh={65 * 0.02} /> Euro</Answer>
 <Answer correct><CostElectricity kWh={65 * 0.06} /> Euro</Answer>
-<Answer><CostElectricity kWh={65 * 0.20} /> Euro</Answer>
+<Answer><CostElectricity kWh={65 * 0.21} /> Euro</Answer>
 <Answer><CostElectricity kWh={65 * 0.50} /> Euro</Answer>
 <Result>
 Ein sparsamer Kühlschrank der Effizienzklasse D ohne Gefrierfach verbraucht jährlich etwa 65 kWh Strom. Bei dem aktuellen durchschnittlichen Strompreis von <PriceElectricity /> Cent/ kWh sind das <CostElectricity kWh={65} /> Euro/pro Jahr. Wer den Kühlschrank auf sieben statt auf sechs Grad einstellt, senkt den Stromverbrauch um sechs Prozent. Das entspricht einer Geldersparnis von <b><CostElectricity kWh={3.9} /> Euro</b>.

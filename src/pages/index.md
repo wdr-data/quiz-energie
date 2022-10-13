@@ -111,7 +111,7 @@ Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang i
 
 ### Spartipps
 
-Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
+Folgende Dinge sollten Sie beachten, um beim Wäschetrocknen Energie zu sparen:
 
 - Nutzen Sie das Fassungsvermögen des Trockners aus.
 - Schleudern Sie die Kleidung vorher in der Waschmaschine bei möglichst hoher Drehzahl.

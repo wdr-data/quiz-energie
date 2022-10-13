@@ -240,10 +240,10 @@ images={{
 9: "9_Kerze.jpg",
 }}
 texts={{
-0: "Da ist ernergiespartechnisch noch ganz schön Luft nach oben. Am besten das Quiz direkt noch einmal machen.",
-4: "Grundsätzlich wissen Sie beim Energiesparen Bescheid. An ein paar Stellschrauben können Sie aber noch drehen.",
+0: "Da ist ernergiespartechnisch noch viel Luft nach oben. Am besten das Quiz direkt noch einmal machen.",
+4: "Sie wissen beim Energiesparen Bescheid. An ein paar Stellschrauben können Sie aber noch drehen.",
 7: "Ziemlich gut! Viel Sparpotenzial gibt es bei ihnen zuhause nicht mehr.",
-9: "Sie sind ein Energiespar-Profi. Um noch mehr zu sparen, müssten Sie Strom und Gas ganz abstellen.",
+9: "Volle Punktzahl: Sie sind ein wahrer Energiespar-Profi.",
 }}
 />
 

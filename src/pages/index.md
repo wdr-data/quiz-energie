@@ -222,7 +222,7 @@ Oft lohnen sich auch Sanierungen, die nicht die Heizung betreffen, um Heizkosten
 <Answer><CostElectricity kWh={1.7 * 220} round="euro" /> Euro</Answer>
 <Answer><CostElectricity kWh={4 * 220} round="euro" /> Euro</Answer>
 <Result>
-Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von <b><CostElectricity kWh={0.6 * 220} /> Euro</b>.
+Ein Desktop-PC verbraucht bei typischen Büroanwendungen an einem achtstündigen Arbeitstag etwa 0,6 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh und 220 Arbeitstagen im Jahr ergeben sich so jährliche Kosten von <b><CostElectricity kWh={0.6 * 220} round="euro" /> Euro</b>.
 </Result>
 </Quiz>
 

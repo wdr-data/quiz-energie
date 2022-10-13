@@ -234,8 +234,8 @@ Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ei
 
 <QuizScore
 images={{
-0: "Heizen_Altbau.jpg",
-4: "Heizen.jpg",
+0: "0_Leuchthaus.jpg",
+4: "4_Sparsteckdose.jpg",
 7: "Kuehlschrank_1.jpg",
 9: "Dusche_Hund.jpg",
 }}

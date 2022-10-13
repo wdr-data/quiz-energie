@@ -138,7 +138,7 @@ Gerade Haushalte, in denen sehr häufig der Trockner läuft, sollten bei der Ans
 <QuizImage src="Duschen_1.jpg" alt="Aus einem Duschkopf spritzen viele dünne Wasserstrahlen." />
 <Question>**Wissen Sie, was fünf Minuten unter der heißen Dusche kosten, wenn Sie einen elektronischen Durchlauferhitzer haben?**</Question>
 <Answer><CostGas kWh={2.71} /> Euro</Answer>
-<Answer><CostElectricity kWh={0.9} /> Euro</Answer>
+<Answer><CostElectricity kWh={1.2} /> Euro</Answer>
 <Answer correct><CostElectricity kWh={1.68} /> Euro</Answer>
 <Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
@@ -157,7 +157,7 @@ Das können Sie tun, um beim Duschen Energie zu sparen:
 <QuizImage src="Dusche_Hund.jpg" alt="Ein eingeschäumter Dackel steht unter einer Dusche und wird abgebraust." />
 <Question>**Und was kostet Sie eine genauso lange Dusche, wenn das Wasser mit Erdgas in einem Brennwertkessel erhitzt wird?**</Question>
 <Answer correct><CostGas kWh={2.71} /> Euro</Answer>
-<Answer><CostElectricity kWh={0.9} /> Euro</Answer>
+<Answer><CostElectricity kWh={1.2} /> Euro</Answer>
 <Answer><CostElectricity kWh={1.68} /> Euro</Answer>
 <Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
@@ -176,7 +176,7 @@ Gerade wenn es um Duschen oder Baden geht, gibt es unzählige Kombinationen, wie
 <Question>**Wissen Sie, wie viel Geld Sie jährlich sparen, wenn Sie die Temperatur in Ihrer Neubauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
 <Answer><CostGas kWh={100} round="euro" /> Euro</Answer>
 <Answer correct><CostGas kWh={420} round="euro" /> Euro</Answer>
-<Answer><CostGas kWh={700} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={840} round="euro" /> Euro</Answer>
 <Answer><CostGas kWh={1900} round="euro" /> Euro</Answer>
 <Result>
 Wer die Raumtemperatur um ein Grad senkt, reduziert den Energieverbrauch um etwa sechs Prozent. Bei einer energetisch gut sanierten beziehungsweise neu gebauten 70-Quadratmeter-Wohnung mit Gasheizung und einem Heizenergieverbrauch von 7.000 kWh reduzieren sich die jährlichen Energiekosten somit um 420 kWh beziehungsweise rund <b><CostGas kWh={420} round="euro" /> Euro</b>.
@@ -198,9 +198,9 @@ Das können Sie zudem noch machen, um Heizkosten zu sparen:
 <QuizImage src="Heizen_Altbau.jpg" alt="Eine Decke liegt auf der Fensterbank über einem Heizkörper in einem Altbau." />
 <Question>**Und wie viel Geld sparen Sie im Jahr, wenn Sie die Temperatur in Ihrer Altbauwohnung mit Gasheizung um ein Grad Celsius herunterdrehen?**</Question>
 <Answer><CostGas kWh={100} round="euro" /> Euro</Answer>
-<Answer><CostGas kWh={400} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={420} round="euro" /> Euro</Answer>
 <Answer correct><CostGas kWh={840} round="euro" /> Euro</Answer>
-<Answer><CostGas kWh={2300} round="euro" /> Euro</Answer>
+<Answer><CostGas kWh={1900} round="euro" /> Euro</Answer>
 <Result>
 In einem unsanierten Altbau geht man bei einer 70-Quadratmeter-Wohnung mit Gasheizung von einem durchschnittlichen Heizenergieverbrauch von 14.000 kWh pro Jahr aus. Wird dieser durch das Herunterdrehen der Raumtemperatur um ein Grad um sechs Prozent gesenkt, reduziert sich der Energieverbrauch um 840 kWh. Damit würden gut <b><CostGas kWh={840} round="euro" /> Euro</b> jährlich gespart werden.
 </Result>

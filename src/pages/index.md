@@ -124,7 +124,7 @@ Folgende Dinge sollten Sie beachten, um beim Wäschtrocknen Energie zu sparen:
 <Answer><CostElectricity kWh={1.8} /> Euro</Answer>
 <Answer correct><CostElectricity kWh={5.5} /> Euro</Answer>
 <Result>
-Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei <b><CostElectricity kWh={5.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={5.0 * 160} round="euro" /> Euro. 
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei <b><CostElectricity kWh={5.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={5.5 * 160} round="euro" /> Euro. 
 </Result>
 </Quiz>
 

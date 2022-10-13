@@ -28,7 +28,7 @@ import { SetPriceElectricity, SetPriceGas, PriceElectricity, PriceGas, CostElect
 
 ## Steigende Kosten für Strom und Gas
 
-# Quiz: Wissen Sie... wieviel Sie für Energie ausgeben?
+# Quiz: Wissen Sie ... wieviel Sie für Energie ausgeben?
 
 Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Bereits im Januar meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen.
 
@@ -38,9 +38,9 @@ Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie.
 
 Die Zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu senken. Doch an welcher Stelle geht das am besten? Und womit schone ich mit wenig Aufwand am effektivsten meinen Geldbeutel?
 
-## Wissen Sie...?
+## Wissen Sie ...?
 
-Mit „Wissen Sie...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei <PriceElectricity /> Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (<PriceGas /> Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
+Mit „Wissen Sie ...?“ bieten wir Ihnen die Möglichkeit zu überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei <PriceElectricity /> Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (<PriceGas /> Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
 
 Klicken Sie sich durch das Quiz und finden Sie heraus, wo Sie im Haushalt vielleicht noch Potenzial haben, um ein bisschen weniger Strom oder Gas zu verbrauchen und damit auch ein bisschen mehr Geld am Ende des Jahres übrig zu haben.
 

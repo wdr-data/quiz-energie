@@ -161,7 +161,7 @@ Das können Sie tun, um beim Duschen Energie zu sparen:
 <Answer><CostElectricity kWh={1.68} /> Euro</Answer>
 <Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
-Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von <b><CostGas kWh={1.68} /> Euro je Duschvorgang</b> und somit etwa <CostGas kWh={1.68 * 365} round="euro" /> Euro im Jahr.
+Wird das Wasser mit Erdgas in einem Brennwertkessel erhitzt, entstehen Kosten von <b><CostGas kWh={2.71} /> Euro je Duschvorgang</b> und somit etwa <CostGas kWh={2.71 * 365} round="euro" /> Euro im Jahr.
 </Result>
 </Quiz>
 

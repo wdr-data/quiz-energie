@@ -236,14 +236,14 @@ Besonders deutlich wird das Einsparpotenzial bei richtigen High-End-Geräten: Ei
 images={{
 0: "0_Leuchthaus.jpg",
 4: "4_Sparsteckdose.jpg",
-7: "Kuehlschrank_1.jpg",
-9: "Dusche_Hund.jpg",
+7: "7_Energiecheck.jpg",
+9: "9_Kerze.jpg",
 }}
 texts={{
-0: "Da geht noch was.",
-4: "Schon besser...",
-7: "Ziemlich gut!",
-9: "Volle Punktzahl, nicht schlecht!",
+0: "In Sachen Energiesparen gibt es bei Ihnen noch ganz schön Luft nach oben. Am besten das Quiz direkt noch einmal machen.",
+4: "Grundsätzlich wissen Sie, wie man im Alltag Strom und Gas sparen kann. Offenbar gibt es aber noch ein paar Stellschrauben, an denen Sie drehen können.",
+7: "Ziemlich gut! Viel Sparpotenzial gibt es bei ihnen zuhause nicht mehr.",
+9: "Volle Punktzahl: Sie sind ein Energiespar-Profi. Um noch mehr zu sparen, müssten Sie zuhause wohl Strom und Gas ganz abstellen.",
 }}
 />
 

@@ -1,8 +1,8 @@
 ### Bildrechte:
 
 - - Aufmacher-Bild: dpa/Sina Schuldt
-- - TV-Gerät: imago images
-- - Kühlschrank: imago images/AndreyPopov 
+- - TV-Gerät: imago
+- - Kühlschrank: imago/AndreyPopov 
 - - Wäschetrockner 1: picture alliance/Ingrid Balabanova
 - - Wäschetrockner 2: picture alliance/Christin Klose
 - - Duschkopf: dpa/Philipp von Ditfurth
@@ -10,6 +10,10 @@
 - - Heizregler: picture alliance/Eibner-Pressefoto
 - - Altbau-Heizung: picture alliance/Alessandra Schellnegger
 - - Homeoffice: picture alliance/Uwe Anspach
+- - Weihnachtshaus: AP
+- - Sparsteckdose: picture alliance/Rupert Trischberger
+- - Strommessgerät: picture alliance/Oliver Killig
+- - Kerzenlicht: imago/Andreas Poertner
 
 ### Credits
 

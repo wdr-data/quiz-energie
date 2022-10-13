@@ -13,5 +13,5 @@
 
 ### Credits
 
-- **Redaktion:** Rainer Kellers
+- **Redaktion:** Nila Reinhadt, Rainer Kellers
 - **Programmierung:** Jannes Höke

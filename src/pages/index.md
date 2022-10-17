@@ -235,7 +235,7 @@ images={{
 0: "0_Leuchthaus.jpg",
 4: "4_Sparsteckdose.jpg",
 7: "7_Energiecheck.jpg",
-9: "9_Kerze.jpg",
+9: "Stromzaehler_1.jpg",
 }}
 texts={{
 0: "Da ist ernergiespartechnisch noch viel Luft nach oben. Am besten das Quiz direkt noch einmal machen.",

@@ -13,7 +13,7 @@
 - - Weihnachtshaus: AP
 - - Sparsteckdose: picture alliance/Rupert Trischberger
 - - Strommessgerät: picture alliance/Oliver Killig
-- - KDrehstromzähler: dpa/Uli Deck
+- - Drehstromzähler: dpa/Uli Deck
 
 ### Credits
 

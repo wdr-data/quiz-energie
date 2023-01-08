@@ -2,7 +2,7 @@
 title: 'Hohe Kosten für Strom und Gas: Wie teuer ist eine heiße Dusche?'
 description: 'Die Kosten für Strom und Gas sind stark gestiegen. Grund genug, auf den Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel eine heiße Dusche kostet? Oder wie viel Strom Ihr PC verbraucht?'
 author: Jörn Kießler
-pub_date: '2022-10-18'
+pub_date: '2023-01-08'
 heroImage: 'Stromzaehler_2.jpg'
 heroAlt: ''
 heroCredit: ''
@@ -30,9 +30,9 @@ import { SetPriceElectricity, SetPriceGas, PriceElectricity, PriceGas, CostElect
 
 # Quiz: Wissen Sie ... wieviel Sie für Energie ausgeben?
 
-Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Bereits im Januar meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen.
+Schon vor dem Angriff Russlands auf die Ukraine stiegen die Kosten für Energie. Bereits im Januar 2022 meldete der Bundesverband der Energie- und Wasserwirtschaft (BDEW), dass Haushalte, die einen neuen Vertrag abgeschlossen hatten, durchschnittlich zwölf Prozent mehr für ihren Strom zahlen mussten als im vergangenen Jahr. Seitdem ist der Preis laut dem Vergleichsportal Verivox erneut um fast ein Drittel gestiegen.
 
-Ähnlich sieht es beim Gaspreis für Privatkunden aus: Er stieg seit Januar laut Verivox sogar um mehr als ein Drittel. Dabei mussten Neukunden im Januar laut BDEW bereits 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
+Ähnlich sieht es beim Gaspreis für Privatkunden aus: Er stieg seit Januar 2022 laut Verivox sogar um mehr als ein Drittel. Dabei mussten Neukunden im Januar laut BDEW bereits 73 Prozent mehr als den Durchschnittspreis 2021 zahlen.
 
 <Link title="Gestiegene Energiekosten: So hoch sind aktuell die Gas- und Strompreise in NRW" href="https://www1.wdr.de/nachrichten/so-sind-die-gas-und-strompreise-aktuell-in-nrw-100.html" />
 

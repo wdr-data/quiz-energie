@@ -23,8 +23,8 @@ import { Link, LinkList } from '../components/link/link.jsx'
 import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore } from '../components/quiz/quiz.jsx'
 import { SetPriceElectricity, SetPriceGas, PriceElectricity, PriceGas, CostElectricity, CostGas } from '../components/energy-prices/energyPrices.jsx'
 
-<SetPriceElectricity centPerKWh={53.83} />
-<SetPriceGas centPerKWh={20.54}/>
+<SetPriceElectricity centPerKWh={43.3} />
+<SetPriceGas centPerKWh={16.43}/>
 
 ## Steigende Kosten für Strom und Gas
 
@@ -40,7 +40,7 @@ Die Zahlen machen eines sehr deutlich: Es lohnt sich, den Energieverbrauch zu se
 
 ## Wissen Sie ...?
 
-Mit „Wissen Sie ...?“ können Sie überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Oktober für einen drei bis vier Personen-Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei <PriceElectricity /> Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Oktober orientiert (<PriceGas /> Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
+Mit „Wissen Sie ...?“ können Sie überprüfen, wie gut Sie sich mit Energiesparen auskennen. Für unsere Alltagsbeispiele haben wir als Bemessensgrundlage den durchschnittlichen Strompreis angesetzt, den das Vergleichsportal Verivox für den Monat Dezember 2022 für einen drei bis vier Personen-Haushalt mit einem Jahresverbrauch von 4.000 kWh errechnet hat. Er liegt demnach bei <PriceElectricity /> Cent/kWh. Beim durchschnittlichen Gaspreis haben wir uns ebenfalls an Daten von Verivox für Dezember orientiert (<PriceGas /> Cent/kWh). Sie basieren auf einem Jahresverbrauch von 20.000 kWh.
 
 Viel Spaß beim Quiz!
 

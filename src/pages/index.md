@@ -2,7 +2,7 @@
 title: 'Hohe Kosten für Strom und Gas: Wie teuer ist eine heiße Dusche?'
 description: 'Die Kosten für Strom und Gas sind stark gestiegen. Grund genug, auf den Energieverbrauch zu achten. Aber wissen Sie eigentlich, wie viel eine heiße Dusche kostet? Oder wie viel Strom Ihr PC verbraucht?'
 author: Jörn Kießler
-pub_date: '2023-01-08'
+pub_date: '2023-01-09'
 heroImage: 'Stromzaehler_2.jpg'
 heroAlt: ''
 heroCredit: ''
@@ -103,7 +103,7 @@ Hat Ihr Kühlschrank bereits ein paar Dienstjahre auf dem Buckel und nicht die b
 <Answer correct><CostElectricity kWh={1.5} /> Euro</Answer>
 <Answer><CostElectricity kWh={4} /> Euro</Answer>
 <Result>
-Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh sind das <b><CostElectricity kWh={1.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={1.5 * 160} round="euro" /> Euro. 
+Ein Wärmepumpentrockner der Energieeffizienzklasse A verbraucht pro Durchgang im Schnitt 1,5 kWh Strom. Bei einem Strompreis von <PriceElectricity /> Cent/ kWh sind das <b><CostElectricity kWh={1.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={1.5 * 160} round="euro" /> Euro.
 </Result>
 </Quiz>
 
@@ -122,7 +122,7 @@ Folgende Dinge sollten Sie beachten, um beim Wäschetrocknen Energie zu sparen:
 <Answer><CostElectricity kWh={1.8} /> Euro</Answer>
 <Answer correct><CostElectricity kWh={5.5} /> Euro</Answer>
 <Result>
-Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei <b><CostElectricity kWh={5.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={5.5 * 160} round="euro" /> Euro. 
+Ältere Ablufttrockner können bis zu 5,5 kWh Strom verbrauchen, hier liegen die Kosten je Durchgang bei <b><CostElectricity kWh={5.5} /> Euro</b>. Der von den Herstellern angegebene Jahresstromverbrauch geht davon aus, dass die Trockner 160 Mal im Jahr laufen. Das entspricht <CostElectricity kWh={5.5 * 160} round="euro" /> Euro.
 </Result>
 </Quiz>
 
